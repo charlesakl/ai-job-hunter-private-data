@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-27",
+  "matches": [
+    {
+      "id": "5942876834",
+      "title": "Cloud Site Reliability Engineer (SRE) - Internal Cloud",
+      "company": "BC Forward",
+      "location": "Charlotte, Mecklenburg County",
+      "description": "Job Title: Cloud Site Reliability Engineer (SRE) - Internal Cloud Location: Charlotte, NC / Jersey City, NJ Duration: Contract - 12 months Pay Range: Charlotte, NC - Pay Rate: $66.71/hr Jersey, City, NJ - Pay Rate: $69.99/hr Job ID: 411097 About BCforward BCforward is a leading global IT consulting and workforce solutions firm providing services and support to Fortune 500 and government clients. Founded in 1998, BCforward has grown with our customers needs into a full-service business solutions…",
+      "url": "https://www.adzuna.com/land/ad/5942876834?se=hnSIuQLS8RGrpJGQqmKkng&utm_medium=api&utm_source=db5ba760&v=32FF62AA237A0F6C70889F39C4E5433E6E63A985",
+      "created": "2026-10-26T21:18:45Z",
+      "salary_min": 143520,
+      "salary_max": 145579,
+      "score": 89,
+      "matched": [
+        "cloud",
+        "site reliability",
+        "sre"
+      ],
+      "missing": [],
+      "reason": "Matches 3 of 3 detected job skills. Strongest overlaps: cloud, site reliability, sre"
+    },
+    {
+      "id": "5942874452",
+      "title": "Site Reliability Engineer",
+      "company": "HTC Global Services Inc",
+      "location": "Newell, Mecklenburg County",
+      "description": "Senior Site Reliability Engineer (SRE) – PagerDuty / Moogsoft Migration Position Overview Lead a critical observability and incident-management transformation by migrating from the legacy Moogsoft AIOps platform to PagerDuty. This role focuses on redesigning incident management workflows, implementing event orchestration, integrating monitoring platforms, and enabling a seamless transition to PagerDuty for live production monitoring. What You'll Do / Key Responsibilities Lead the migration from…",
+      "url": "https://www.adzuna.com/land/ad/5942874452?se=hnSIuQLS8RGrpJGQqmKkng&utm_medium=api&utm_source=db5ba760&v=D79F4A0C74A5EF441DB5FE288448CCAF80AB3096",
+      "created": "2026-10-26T21:18:34Z",
+      "salary_min": 103921.26,
+      "salary_max": 103921.26,
+      "score": 81,
+      "matched": [
+        "observability",
+        "site reliability",
+        "sre"
+      ],
+      "missing": [
+        "incident management"
+      ],
+      "reason": "Matches 3 of 4 detected job skills. Strongest overlaps: observability, site reliability, sre"
+    },
+    {
+      "id": "5943165200",
+      "title": "Senior Site Reliability Engineer",
+      "company": "Prometheus Group",
+      "location": "Raleigh, Wake County",
+      "description": "About Prometheus Group: Prometheus Group is a leading global provider of comprehensive and intuitive enterprise asset management (EAM) software that works within and across leading ERP, EAM, and CMMS systems—including SAP, Oracle, and IBM Maximo. Developed jointly with end users to span the full work management life cycle, the Prometheus-AI Platform connects a modular, interconnected suite of solutions for planning and scheduling, mobility, shutdown, turnaround, and outage (STO) management, per…",
+      "url": "https://www.adzuna.com/land/ad/5943165200?se=hnSIuQLS8RGrpJGQqmKkng&utm_medium=api&utm_source=db5ba760&v=9AD9C9C143B1292D8D3316D8537267902D639CC8",
+      "created": "2026-10-27T01:56:06Z",
+      "salary_min": 108126.05,
+      "salary_max": 108126.05,
+      "score": 59,
+      "matched": [
+        "site reliability"
+      ],
+      "missing": [
+        "prometheus"
+      ],
+      "reason": "Matches 1 of 2 detected job skills. Strongest overlaps: site reliability"
+    },
+    {
+      "id": "5938950866",
+      "title": "Senior Site Reliability Engineer",
+      "company": "Iru",
+      "location": "Miami, Miami-Dade County",
+      "description": "About Iru Iru is the AI-powered security & IT platform used by the world’s fastest-growing companies to secure their users, apps, and devices. Built for the AI era, Iru unifies identity & access, endpoint security & management, and compliance automation—collapsing the stack and giving IT & security time and control back. Iru is backed by some of the smartest investors in tech—General Catalyst, Tiger Global, Felicis, Greycroft, and First Round Capital. In July 2024, Iru raised $100 million from …",
+      "url": "https://www.adzuna.com/details/5938950866?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-10-23T02:40:40Z",
+      "salary_min": 174397.89,
+      "salary_max": 174397.89,
+      "score": 56,
+      "matched": [
+        "automation",
+        "site reliability"
+      ],
+      "missing": [
+        "compliance",
+        "security"
+      ],
+      "reason": "Matches 2 of 4 detected job skills. Strongest overlaps: automation, site reliability"
+    },
+    {
+      "id": "5370925241",
+      "title": "Application/Production Support Help Desk Analyst - Durham NC/On-Site",
+      "company": "STI",
+      "location": "Durham, Durham County",
+      "description": "Application/Production Support Help Desk Analyst Research Triangle Park, Durham NC 6 Months Some local travel may be required in performance of the work NC FAST requires the services of an Application/Production Support Help Desk analyst to assist with production support analysis and resolution of NC FAST provider issues. This is an Application/Production Support position where selected candidates will support the NC FAST application by assisting outside customers/service providers who are acce…",
+      "url": "https://www.adzuna.com/land/ad/5370925241?se=hiD5ugLS8RGP5qAzl8cCOw&utm_medium=api&utm_source=db5ba760&v=D93EBB121A8B60A5E61CEC219C34292E3C26E03A",
+      "created": "2025-08-27T17:20:48Z",
+      "salary_min": 75584.21,
+      "salary_max": 75584.21,
+      "score": 55,
+      "matched": [],
+      "missing": [],
+      "reason": "Matches 0 of 0 detected job skills. Review the full description for transferable experience."
+    },
+    {
+      "id": "5909112506",
+      "title": "Oracle FLEXCUBE Global PAYplus (FGPP) Production Support SME(Remote)",
+      "company": "GSK Solutions",
+      "location": "US",
+      "description": "Job Title Oracle FLEXCUBE Global PAYplus (FGPP) Production Support SME (Remote) Location Remote Duration 6 Months Interview Type Virtual Note Remote(work in EST hours) Description This role of the SME is to be the client's technical focal point for the client's FGPP in production. To troubleshoot and solve issues in production. Skills Required: Strong & proven FGPP issue/case analysis: triage, recreation, trace analysis, DB and GUI usage. Deep FGPP business and functional knowledge. Proven hand…",
+      "url": "https://www.adzuna.com/details/5909112506?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-10-02T21:23:53Z",
+      "salary_min": 165573.25,
+      "salary_max": 165573.25,
+      "score": 55,
+      "matched": [],
+      "missing": [],
+      "reason": "Matches 0 of 0 detected job skills. Review the full description for transferable experience."
+    },
+    {
+      "id": "5942876733",
+      "title": "Production Support Coordinator",
+      "company": "CYNET SYSTEMS",
+      "location": "Malabar, Brevard County",
+      "description": "Pay Range: $19.00hr - $24.00hr Job Overview: Oversees and coordinates a production team to efficiently process work in accordance with a production plan and to promote and deliver high quality output. Works with Operations Management to execute in accordance with a system of manufacturing standards and follow company policies and procedures. Encourages team members to drive continual improvement in their production area using established tools. Acts as the primary resource for employee issues, …",
+      "url": "https://www.adzuna.com/land/ad/5942876733?se=KhmFugLS8RGnlrQCadR8DA&utm_medium=api&utm_source=db5ba760&v=153F4B86A48A2E43A7B505436CFFE7E4C9F550CC",
+      "created": "2026-10-26T21:18:44Z",
+      "salary_min": 39520,
+      "salary_max": 49920,
+      "score": 50,
+      "matched": [],
+      "missing": [],
+      "reason": "Matches 0 of 0 detected job skills. Review the full description for transferable experience."
+    },
+    {
+      "id": "5833322844",
+      "title": "Sr. Engineer, Contact Center Platform Stability & Production Support",
+      "company": "LPL Financial",
+      "location": "Charlotte, Mecklenburg County",
+      "description": "Where Ambition Meets Innovation Build a career that matches all your initiative with an impressive dose of innovation. From cutting-edge resources and a collaborative environment to the freedom to make an impact and more, you’ll find the ingredients you need at LPL Financial to shape your success while helping clients pursue their financial goals. Job Overview: The Senior Engineer, Production Support & Platform Stability is responsible for providing production support, platform stability, relea…",
+      "url": "https://www.adzuna.com/details/5833322844?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-08-08T06:25:27Z",
+      "salary_min": 106100,
+      "salary_max": 176900,
+      "score": 50,
+      "matched": [],
+      "missing": [],
+      "reason": "Matches 0 of 0 detected job skills. Review the full description for transferable experience."
+    },
+    {
+      "id": "5942881874",
+      "title": "Production Support",
+      "company": "ComTec",
+      "location": "Malabar, Brevard County",
+      "description": "Title: Production Support Location: Malabar, FL Duration: 12 Months Schedule:4/10 Monday - Thursday Hours: 5:00 AM - 3:30 PM. Description: Oversees and coordinates a production team to efficiently process work in accordance with a production plan and to promote and deliver high quality output. Works with Operations Management to execute in accordance a system of manufacturing standards and follow company policies and procedures. Encourages team members to drive continual improvement in their pr…",
+      "url": "https://www.adzuna.com/land/ad/5942881874?se=KhmFugLS8RGnlrQCadR8DA&utm_medium=api&utm_source=db5ba760&v=4FBEFFEED41BA54B916CC58A4B4EE12A8E866B55",
+      "created": "2026-10-26T21:19:21Z",
+      "salary_min": 84975.61,
+      "salary_max": 84975.61,
+      "score": 48,
+      "matched": [],
+      "missing": [],
+      "reason": "Matches 0 of 0 detected job skills. Review the full description for transferable experience."
+    },
+    {
+      "id": "5936700940",
+      "title": "Production Support Specialist 2 - Reprocessing - 3rd Shift",
+      "company": "Caterpillar",
+      "location": "Sanford, Lee County",
+      "description": "Career Area: Operations Job Description: Your Work Shapes the World at Caterpillar Inc. When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we …",
+      "url": "https://www.adzuna.com/details/5936700940?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-10-21T08:49:12Z",
+      "salary_min": 49920,
+      "salary_max": 49920,
+      "score": 47,
+      "matched": [],
+      "missing": [],
+      "reason": "Matches 0 of 0 detected job skills. Review the full description for transferable experience."
+    }
+  ],
+  "total_new": 14,
+  "email_sent": false,
+  "errors": []
+}
