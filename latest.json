@@ -177,6 +177,6 @@
     }
   ],
   "total_new": 23,
-  "email_sent": false,
+  "email_sent": true,
   "errors": []
 }
