@@ -1,178 +1,194 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "matches": [
     {
-      "id": "5945525335",
-      "title": "Site Reliability Engineering Lead",
-      "company": "RELX Group",
-      "location": "Tallahassee, Leon County",
-      "description": "Are you passionate about building reliable, scalable platforms and helping engineering teams thrive? Do you enjoy leading high-performing teams while driving automation, resilience, and operational excellence across modern cloud environments? About the Business LexisNexis Risk Solutions is the essential partner in the assessment of risk. Within our Business Services vertical, we offer a multitude of solutions focused on helping businesses of all sizes drive higher revenue growth, maximize opera…",
-      "url": "https://www.adzuna.com/details/5945525335?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-10-29T06:40:56Z",
-      "salary_min": 199820.25,
-      "salary_max": 199820.25,
+      "id": "5946895812",
+      "title": "Senior Site Reliability Engineer - Database Services",
+      "company": "Oracle",
+      "location": "Five Points, Wake County",
+      "description": "Job Description Oracle Health Database Services is seeking a highly experienced, Site Reliability Engineer to lead database reliability engineering across mission-critical healthcare platforms. This individual-contributor role combines Oracle Database expertise, cloud engineering, automation, AI-assisted operations, and technical project leadership. The successful candidate will deliver measurable improvements in reliability, scalability, performance, operational readiness, and customer experie…",
+      "url": "https://www.adzuna.com/land/ad/5946895812?se=Gnva9V7U8RGbzOofqBVJtA&utm_medium=api&utm_source=db5ba760&v=BD91C18B933072551ABB7AB43ED37E444146C866",
+      "created": "2026-10-30T08:08:51Z",
+      "salary_min": 148923.38,
+      "salary_max": 148923.38,
       "score": 100,
       "matched": [
         "automation",
         "cloud",
+        "leadership",
         "site reliability"
       ],
       "missing": [],
-      "reason": "Matches 3 of 3 detected job skills. Strongest overlaps: automation, cloud, site reliability"
+      "reason": "Matches 4 of 4 detected job skills. Strongest overlaps: automation, cloud, leadership, site reliability"
     },
     {
-      "id": "5939293473",
-      "title": "Event Technician",
-      "company": "Calvin University",
-      "location": "Grand Rapids, Kent County",
-      "description": "Job Title: Event Technician Department: Calvin Information Technology SUMMARY The Event Technician is responsible for overseeing the technical execution of live events, ensuring high-quality audio, video, and lighting production. This role combines hands-on technical expertise with leadership responsibilities, mentoring team members and coordinating resources to deliver seamless experiences. ESSENTIAL DUTIES AND RESPONSIBILITIES include the following. Other duties may be assigned. Serve as a te…",
-      "url": "https://www.adzuna.com/details/5939293473?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-10-23T09:03:07Z",
-      "salary_min": 34093.73,
-      "salary_max": 34093.73,
-      "score": 89,
+      "id": "5941424474",
+      "title": "Senior Site Reliability Engineer - Oracle Heath",
+      "company": "Oracle",
+      "location": "Five Points, Wake County",
+      "description": "Job Description We are seeking a Site Reliability Engineer to help build and operate reliable, scalable cloud-native platforms and services that support Oracle Health's next-generation healthcare technology initiatives. This role works across platform engineering, cloud infrastructure, distributed systems, integration services, healthcare applications, and operational tooling. The ideal candidate is passionate about reliability, automation, observability, and performance. You will collaborate c…",
+      "url": "https://www.adzuna.com/land/ad/5941424474?se=Gnva9V7U8RGbzOofqBVJtA&utm_medium=api&utm_source=db5ba760&v=B7111168395A82666AB12891CD1A38DB4EE072DB",
+      "created": "2026-10-25T07:36:50Z",
+      "salary_min": 179553.16,
+      "salary_max": 179553.16,
+      "score": 100,
       "matched": [
-        "leadership"
+        "automation",
+        "cloud",
+        "distributed systems",
+        "observability",
+        "site reliability"
       ],
       "missing": [],
-      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: leadership"
+      "reason": "Matches 5 of 5 detected job skills. Strongest overlaps: automation, cloud, distributed systems, observability, site reliability"
     },
     {
-      "id": "5778718025",
-      "title": "Automation Engineer",
-      "company": "Alten USA",
-      "location": "Bellevue, King County",
-      "description": "We're ALTEN Technology USA, an engineering company helping clients bring groundbreaking ideas to life-from advancing space exploration and life-saving medical devices to building autonomous electric vehicles. With 3,000 experts across North America, we partner with leading companies in aerospace, medical devices, robotics, automotive, commercial vehicles, EVs, rail, and more. As part of the global ALTEN Group-57,000 engineers in 30 countries-we deliver across the entire product development cycl…",
-      "url": "https://www.adzuna.com/land/ad/5778718025?se=uoeyx5XT8RGUC9PL-Qf2Hw&utm_medium=api&utm_source=db5ba760&v=DA4424788299721378849B71D45A2D7CEAFE78B2",
-      "created": "2026-06-27T01:15:37Z",
-      "salary_min": 153875.8,
-      "salary_max": 153875.8,
+      "id": "5946059947",
+      "title": "Director of Site Reliability Engineering",
+      "company": "JPMorganChase",
+      "location": "Tampa, Hillsborough County",
+      "description": "Description Job Description Embark on a transformative journey in technology management at a leading financial firm. You will shape how we deliver a resilient, high-quality technology experience to our clients. Working across regions and functions, you will strengthen operational excellence, enable change safely, and ensure outcomes align with regulatory expectations and business goals. As a Director of Site Reliability Engineering at JPMorgan Chase within the Commercial & Investment Bank Merch…",
+      "url": "https://www.adzuna.com/land/ad/5946059947?se=MMKR9V7U8RGwsLBvQ4mQSA&utm_medium=api&utm_source=db5ba760&v=74CD8E19ABAC1CF90C3F4029B59A182EDC891986",
+      "created": "2026-10-29T14:57:49Z",
+      "salary_min": 220367.94,
+      "salary_max": 220367.94,
+      "score": 95,
+      "matched": [
+        "site reliability"
+      ],
+      "missing": [],
+      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
+    },
+    {
+      "id": "5923278112",
+      "title": "Senior Manager, Site Reliability Engineering",
+      "company": "Oracle",
+      "location": "Five Points, Wake County",
+      "description": "Job Description Supports team members in designing and architecting infrastructure and service and shares guidance on practices for reliability and functionality. Provides direction to ensure accurate forecasting and ensure systems have adequate resources, identifying resource gaps. Maintains a collaborative relationship with the software development team to create reliable, scalable infrastructures. Monitors data collection and ensures team members optimize operations and infrastructure reliab…",
+      "url": "https://www.adzuna.com/land/ad/5923278112?se=Gnva9V7U8RGbzOofqBVJtA&utm_medium=api&utm_source=db5ba760&v=6DCFC87B4221EA71FBE6142D9002E8286F25491D",
+      "created": "2026-10-11T08:10:41Z",
+      "salary_min": 163314.53,
+      "salary_max": 163314.53,
+      "score": 95,
+      "matched": [
+        "site reliability"
+      ],
+      "missing": [],
+      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
+    },
+    {
+      "id": "5883519534",
+      "title": "Senior Site Reliability Engineer",
+      "company": "Proofpoint",
+      "location": "Tampa, Hillsborough County",
+      "description": "Boston, Massachusetts Florida Texas Utah Illinois Virginia Draper, UT Maryland Georgia Full time R14687 About Us: Proofpoint is a global leader in human- and agent-centric cybersecurity. We protect how people, data, and AI agents connect across email, cloud, and collaboration tools. Over 80 of the Fortune 100, 10,000 large enterprises, and millions of smaller organizations trust Proofpoint to stop threats, prevent data loss, and build resilience across their people and AI workflows. Our mission…",
+      "url": "https://www.adzuna.com/details/5883519534?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-09-14T06:54:40Z",
+      "salary_min": 177506.66,
+      "salary_max": 177506.66,
+      "score": 92,
+      "matched": [
+        "cloud",
+        "cybersecurity",
+        "site reliability"
+      ],
+      "missing": [],
+      "reason": "Matches 3 of 3 detected job skills. Strongest overlaps: cloud, cybersecurity, site reliability"
+    },
+    {
+      "id": "5883519541",
+      "title": "Senior Site Reliability Engineer",
+      "company": "Proofpoint",
+      "location": "Edgewood, Orange County",
+      "description": "Boston, Massachusetts Florida Texas Utah Illinois Virginia Draper, UT Maryland Georgia Full time R14687 About Us: Proofpoint is a global leader in human- and agent-centric cybersecurity. We protect how people, data, and AI agents connect across email, cloud, and collaboration tools. Over 80 of the Fortune 100, 10,000 large enterprises, and millions of smaller organizations trust Proofpoint to stop threats, prevent data loss, and build resilience across their people and AI workflows. Our mission…",
+      "url": "https://www.adzuna.com/details/5883519541?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-09-14T06:54:40Z",
+      "salary_min": 185656.9,
+      "salary_max": 185656.9,
+      "score": 92,
+      "matched": [
+        "cloud",
+        "cybersecurity",
+        "site reliability"
+      ],
+      "missing": [],
+      "reason": "Matches 3 of 3 detected job skills. Strongest overlaps: cloud, cybersecurity, site reliability"
+    },
+    {
+      "id": "5883519533",
+      "title": "Senior Site Reliability Engineer",
+      "company": "Proofpoint",
+      "location": "Tallahassee, Leon County",
+      "description": "Boston, Massachusetts Florida Texas Utah Illinois Virginia Draper, UT Maryland Georgia Full time R14687 About Us: Proofpoint is a global leader in human- and agent-centric cybersecurity. We protect how people, data, and AI agents connect across email, cloud, and collaboration tools. Over 80 of the Fortune 100, 10,000 large enterprises, and millions of smaller organizations trust Proofpoint to stop threats, prevent data loss, and build resilience across their people and AI workflows. Our mission…",
+      "url": "https://www.adzuna.com/details/5883519533?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-09-14T06:54:40Z",
+      "salary_min": 157366,
+      "salary_max": 157366,
+      "score": 92,
+      "matched": [
+        "cloud",
+        "cybersecurity",
+        "site reliability"
+      ],
+      "missing": [],
+      "reason": "Matches 3 of 3 detected job skills. Strongest overlaps: cloud, cybersecurity, site reliability"
+    },
+    {
+      "id": "5883519538",
+      "title": "Senior Site Reliability Engineer",
+      "company": "Proofpoint",
+      "location": "West Miami, Miami-Dade County",
+      "description": "Boston, Massachusetts Florida Texas Utah Illinois Virginia Draper, UT Maryland Georgia Full time R14687 About Us: Proofpoint is a global leader in human- and agent-centric cybersecurity. We protect how people, data, and AI agents connect across email, cloud, and collaboration tools. Over 80 of the Fortune 100, 10,000 large enterprises, and millions of smaller organizations trust Proofpoint to stop threats, prevent data loss, and build resilience across their people and AI workflows. Our mission…",
+      "url": "https://www.adzuna.com/details/5883519538?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-09-14T06:54:40Z",
+      "salary_min": 177696.53,
+      "salary_max": 177696.53,
+      "score": 92,
+      "matched": [
+        "cloud",
+        "cybersecurity",
+        "site reliability"
+      ],
+      "missing": [],
+      "reason": "Matches 3 of 3 detected job skills. Strongest overlaps: cloud, cybersecurity, site reliability"
+    },
+    {
+      "id": "5805648991",
+      "title": "Senior II Site Reliability Engineer - Network",
+      "company": "Akamai Technologies, Inc.",
+      "location": "Five Points, Wake County",
+      "description": "Are you passionate about cutting edge technology? Do you enjoy working with a diverse multi-national team of engineering talents? Join our highly skilled Site Reliability team Our team designs, develops, and manages applications and infrastructure that support Akamai's Compute products and services. We specialize in building and maintaining fast, efficient, scalable, and reliable routing software and infrastructure that is responsible for all network delivery to Akamai Connected Cloud customers…",
+      "url": "https://www.adzuna.com/land/ad/5805648991?se=Gnva9V7U8RGbzOofqBVJtA&utm_medium=api&utm_source=db5ba760&v=E1B26817C4D75FC5013E4EC988C9EE8592289ABB",
+      "created": "2026-07-17T22:36:00Z",
+      "salary_min": 201292.03,
+      "salary_max": 201292.03,
+      "score": 92,
+      "matched": [
+        "cloud",
+        "site reliability"
+      ],
+      "missing": [],
+      "reason": "Matches 2 of 2 detected job skills. Strongest overlaps: cloud, site reliability"
+    },
+    {
+      "id": "5928962815",
+      "title": "Staff Engineer, Site Reliability Engineering",
+      "company": "General Motors",
+      "location": "Charlotte, Mecklenburg County",
+      "description": "Hybrid Warren, Michigan, United States of America Charlotte, North Carolina, United States of America Austin, Texas, United States of America Full time JR-202621675 Job Description About the role General Motors is transforming the automotive landscape through its next-generation Software-Defined Vehicle platform. Data is central to that transformation, powering safety, personalization, energy optimization, operational decision-making, and connected customer experiences. We are seeking a Staff E…",
+      "url": "https://www.adzuna.com/land/ad/5928962815?se=Gnva9V7U8RGbzOofqBVJtA&utm_medium=api&utm_source=db5ba760&v=70270FCB640C7F919E7E24C715CD15364EDD2FA3",
+      "created": "2026-10-15T07:30:30Z",
+      "salary_min": 138215.17,
+      "salary_max": 138215.17,
       "score": 88,
       "matched": [
-        "automation"
+        "site reliability"
       ],
       "missing": [],
-      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: automation"
-    },
-    {
-      "id": "5880994640",
-      "title": "Automation and Controls Engineer",
-      "company": "Gulftech Group",
-      "location": "Florence Villa, Polk County",
-      "description": "Job Title: Automation & Controls Engineer Department: Engineering Reports To: Engineering Manager FLSA: Exempt Status: Full Time Schedule: Monday-Friday Direct Reports: None Location: Winter Haven, FL Who We Are A multi-national well-established Original Equipment Manufacturer. Our brands have a long-standing and significant presence and brand recognition within their target markets and industries with a strong emphasis on total customer satisfaction. The Gulftech International family of compan…",
-      "url": "https://www.adzuna.com/details/5880994640?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-09-12T08:23:04Z",
-      "salary_min": 90000,
-      "salary_max": 110000,
-      "score": 81,
-      "matched": [
-        "automation"
-      ],
-      "missing": [],
-      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: automation"
-    },
-    {
-      "id": "5625105442",
-      "title": "Sr. Software Engineer",
-      "company": "CDK Global",
-      "location": "Austin, Travis County",
-      "description": "Employer: CDK Global, LLC Job Title: Sr. Software Engineer Worksite: 11809 Domain Dr., Suite 200 Austin, TX 78758. Job Description: Participate in regular sprint planning, retrospective, and review meetings, with teams in US and remote teams. Support production issue resolutions per need. Participate in the development lifecycle with a focus on developing new features and functionalities for enterprise software solutions, encompassing service layers, integration, user interfaces and data. Propo…",
-      "url": "https://www.adzuna.com/details/5625105442?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-02-11T18:03:20Z",
-      "salary_min": 154361.72,
-      "salary_max": 154361.72,
-      "score": 56,
-      "matched": [],
-      "missing": [],
-      "reason": "Matches 0 of 0 detected job skills. Review the full description for transferable experience."
-    },
-    {
-      "id": "5938266056",
-      "title": "Controls Engineer (Loveland)",
-      "company": "AtmosZero",
-      "location": "Loveland, Larimer County",
-      "description": "AtmosZero is building the next generation of industrial steam infrastructure. Our flagship product, Boiler 2.0, is a modular industrial steam heat pump designed to help manufacturers reduce operational risk, improve flexibility, and modernize steam generation over time. Rather than forcing facilities to choose between reliability and sustainability, AtmosZero enables a practical path toward future-ready steam systems that integrate with existing operations and scale with customer needs. AtmosZe…",
-      "url": "https://www.adzuna.com/land/ad/5938266056?se=uoeyx5XT8RGUC9PL-Qf2Hw&utm_medium=api&utm_source=db5ba760&v=2C755448434148DEAA12241571209DF8E8EFDFBB",
-      "created": "2026-10-22T13:55:58Z",
-      "salary_min": 116574.24,
-      "salary_max": 116574.24,
-      "score": 52,
-      "matched": [],
-      "missing": [],
-      "reason": "Matches 0 of 0 detected job skills. Review the full description for transferable experience."
-    },
-    {
-      "id": "5945060177",
-      "title": "Production Support",
-      "company": "ComTec",
-      "location": "Malabar, Brevard County",
-      "description": "Title: Production Support Location: Malabar, FL Duration: 12 Months Schedule:4/10 Monday - Thursday Hours: 5:00 AM - 3:30 PM. Description: Oversees and coordinates a production team to efficiently process work in accordance with a production plan and to promote and deliver high quality output. Works with Operations Management to execute in accordance a system of manufacturing standards and follow company policies and procedures. Encourages team members to drive continual improvement in their pr…",
-      "url": "https://www.adzuna.com/land/ad/5945060177?se=cMw_x5XT8RGBzIFjJBUquw&utm_medium=api&utm_source=db5ba760&v=501DD4A689A7CB5A15F68B665F7247D6E95A665A",
-      "created": "2026-10-28T22:10:36Z",
-      "salary_min": 84975.61,
-      "salary_max": 84975.61,
-      "score": 48,
-      "matched": [],
-      "missing": [],
-      "reason": "Matches 0 of 0 detected job skills. Review the full description for transferable experience."
-    },
-    {
-      "id": "5880674686",
-      "title": "Production Support Data Analyst Healthcare",
-      "company": "DLS Solutions",
-      "location": "US",
-      "description": "Production Support Data Analyst Remote Permanent Position Salary: 110K  Healthcare experience is required Must have SQL (queries) and Tableau for reporting. Python and Databricks is a big plus but not required Position Summary The Production Support Data Analyst is responsible for providing timely analysis, investigation, and resolution of data-related requests and production support issues submitted by business users. This role serves as the primary point of contact for incoming data tickets, …",
-      "url": "https://www.adzuna.com/details/5880674686?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-09-12T01:44:08Z",
-      "salary_min": 96873.2,
-      "salary_max": 96873.2,
-      "score": 42,
-      "matched": [
-        "sql"
-      ],
-      "missing": [
-        "python",
-        "tableau"
-      ],
-      "reason": "Matches 1 of 3 detected job skills. Strongest overlaps: sql"
-    },
-    {
-      "id": "5777468293",
-      "title": "CAD Modelling Specialist",
-      "company": "Radiance Technologies",
-      "location": "Beaver Creek, Greene County",
-      "description": "Radiance Technologies is an employee-owned company with benefits that are unmatched by most companies in the Dayton, OH area. Employee ownership, generous 401K, full health/dental/life/vision insurance benefits, educational reimbursement, competitive salaries, interesting assignments, and a pleasant work environment combine to make Radiance Technologies a great place to work and succeed. Radiance is seeking a highly qualified and motivated CAD Modelling Specialist to support Geospatial Intellig…",
-      "url": "https://www.adzuna.com/land/ad/5777468293?se=uoeyx5XT8RGUC9PL-Qf2Hw&utm_medium=api&utm_source=db5ba760&v=B7BC667FA57B5168555B8D82208B241CAFBC5288",
-      "created": "2026-06-26T05:19:22Z",
-      "salary_min": 106524.36,
-      "salary_max": 106524.36,
-      "score": 41,
-      "matched": [],
-      "missing": [],
-      "reason": "Matches 0 of 0 detected job skills. Review the full description for transferable experience."
-    },
-    {
-      "id": "5937164714",
-      "title": "CAD Drafter/Electrical",
-      "company": "Actalent",
-      "location": "Spartanburg, Spartanburg County",
-      "description": "Job Title: Electrical Design Engineer / CAD Operator Job Description This role focuses primarily on using AutoCAD to modify existing electrical designs and support production through schematic updates and limited hands-on panel work. The position offers a clear growth path into creating electrical schematics from scratch and gaining exposure to PLC programming and AutoCAD Electrical. You will work closely with both office and shop teams to ensure electrical panels are accurately designed, built…",
-      "url": "https://www.adzuna.com/details/5937164714?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-10-21T20:46:41Z",
-      "salary_min": 74672,
-      "salary_max": 74672,
-      "score": 14,
-      "matched": [],
-      "missing": [
-        "design"
-      ],
-      "reason": "Matches 0 of 1 detected job skills. Review the full description for transferable experience."
+      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
     }
   ],
-  "total_new": 20,
+  "total_new": 33,
   "email_sent": false,
-  "errors": [
-    "Site Reliability Engineer / North Carolina: 502 Server Error: Bad Gateway for url: https://api.adzuna.com/v1/api/jobs/us/search/1?app_id=db5ba760&app_key=b8bfdf91bda33ed262a297cd66fb75f9&results_per_page=25&what=Site+Reliability+Engineer&content-type=application%2Fjson&where=North+Carolina",
-    "Production Support / North Carolina: 502 Server Error: Bad Gateway for url: https://api.adzuna.com/v1/api/jobs/us/search/1?app_id=db5ba760&app_key=b8bfdf91bda33ed262a297cd66fb75f9&results_per_page=25&what=Production+Support&content-type=application%2Fjson&where=North+Carolina"
-  ]
+  "errors": []
 }
