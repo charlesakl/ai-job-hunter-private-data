@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "matches": [
     {
-      "id": "5947911591",
-      "title": "Site Reliability Engineer II",
-      "company": "JPMorganChase",
-      "location": "Tampa, Hillsborough County",
-      "description": "Description Play a key role in ensuring the reliability, resilience, and performance of mission-critical payment processing platforms at one of the world's most iconic and largest financial institutions. In this role, you'll bring together software engineering discipline and operational expertise to help power the systems that move money globally — reliably, securely, and at scale. As a Site Reliability Engineer II at JPMorganChase within the Commercial & Investment Bank — Payments Technology t…",
-      "url": "https://www.adzuna.com/land/ad/5947911591?se=3jhKrifV8RGRQOLR_vdAhg&utm_medium=api&utm_source=db5ba760&v=51A2E74E28532BB67C8D7F47BF1F9EC48E82AC2F",
-      "created": "2026-10-31T07:08:12Z",
-      "salary_min": 186686.16,
-      "salary_max": 186686.16,
+      "id": "5947815727",
+      "title": "Site Reliability Engineer - Vice President - Citi",
+      "company": "Citi",
+      "location": "Tampa Palms, Hillsborough County",
+      "description": "Discover your future at Citi Working at Citi is far more than just a job. A career with us means joining a team of approximately 219,000 dedicated people from around the globe. At Citi, you'll have the opportunity to grow your career, give back to your community and make a real impact. Job Overview The Applications Development Senior Manager is a senior management level position responsible for accomplishing results through the management of a team or department in an effort to establish and im…",
+      "url": "https://www.adzuna.com/land/ad/5947815727?se=dix9QPnV8RGRQOLR_vdAhg&utm_medium=api&utm_source=db5ba760&v=6B2BB2A1FF3203E4CC3EF4E4AB3259DDDA8ED4BF",
+      "created": "2026-10-31T05:06:24Z",
+      "salary_min": 163552.53,
+      "salary_max": 163552.53,
       "score": 100,
       "matched": [
         "site reliability"
@@ -19,67 +19,51 @@
       "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
     },
     {
-      "id": "5947387001",
-      "title": "Site Reliability Engineer II",
-      "company": "JPMorgan Chase Bank, N.A.",
-      "location": "East Lake-Orient Park, Hillsborough County",
-      "description": "Play a key role in ensuring the reliability, resilience, and performance of mission-critical payment processing platforms at one of the world's most iconic and largest financial institutions. In this role, you'll bring together software engineering discipline and operational expertise to help power the systems that move money globally - reliably, securely, and at scale. As a Site Reliability Engineer II at JPMorganChase within the Commercial & Investment Bank - Payments Technology team, you wil…",
-      "url": "https://www.adzuna.com/details/5947387001?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-10-30T21:49:05Z",
-      "salary_min": 213079.5,
-      "salary_max": 213079.5,
+      "id": "5911424546",
+      "title": "Site Reliability Engineering Lead",
+      "company": "RELX INC",
+      "location": "Boca Raton, Palm Beach County",
+      "description": "Florida Home based-Connecticut Home based-New Jersey Home based-New York Home based-Pennsylvania Home based-Delaware Home based-Washington DC Home based-South Carolina Full time R119403 Are you passionate about building reliable, scalable platforms and helping engineering teams thrive? Do you enjoy leading high-performing teams while driving automation, resilience, and operational excellence across modern cloud environments? About the Business LexisNexis Risk Solutions is the essential partner …",
+      "url": "https://www.adzuna.com/details/5911424546?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-10-04T07:08:49Z",
+      "salary_min": 278510.34,
+      "salary_max": 278510.34,
       "score": 100,
       "matched": [
-        "site reliability"
-      ],
-      "missing": [],
-      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
-    },
-    {
-      "id": "5947998321",
-      "title": "Site Reliability Engineer II",
-      "company": "JPMorgan Chase",
-      "location": "Tampa, Hillsborough County",
-      "description": "Site Reliability Engineer II Tampa, FL, United States Job Information  Job Identification 210800400  Job Category Software Engineering  Business Unit Commercial & Investment Bank  Posting Date 10/29/2026, 04:52 PM  Locations 4915 Independence Pkwy, Tampa, FL, 33634, US  Job Schedule Full time Job Description Play a key role in ensuring the reliability, resilience, and performance of mission-critical payment processing platforms at one of the world's most iconic and largest financial institution…",
-      "url": "https://www.adzuna.com/details/5947998321?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-10-31T08:10:36Z",
-      "salary_min": 247510.1,
-      "salary_max": 247510.1,
-      "score": 95,
-      "matched": [
-        "site reliability"
-      ],
-      "missing": [],
-      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
-    },
-    {
-      "id": "5940491885",
-      "title": "Senior Site Reliability Engineer",
-      "company": "Brooksource",
-      "location": "Charlotte, Mecklenburg County",
-      "description": "Location: Hybrid - Charlotte, NC (onsite 3 days/week) Employment Type: 12 Month Contract-to-Hire This role supports our Fortune 200 digital banking partner’s production reliability and resiliency by helping application teams instrument, monitor, and operate services more effectively in a hybrid-cloud-based environment. The engineer will build and maintain Dynatrace integrations and supporting services, define standard approaches for instrumentation, and help teams understand what their systems …",
-      "url": "https://www.adzuna.com/land/ad/5940491885?se=HgifrifV8RGRQOLR_vdAhg&utm_medium=api&utm_source=db5ba760&v=00CCB463F3017526EB422BECCFB7323220A7C13B",
-      "created": "2026-10-24T08:43:26Z",
-      "salary_min": 101801.28,
-      "salary_max": 101801.28,
-      "score": 94,
-      "matched": [
+        "automation",
         "cloud",
         "site reliability"
       ],
       "missing": [],
-      "reason": "Matches 2 of 2 detected job skills. Strongest overlaps: cloud, site reliability"
+      "reason": "Matches 3 of 3 detected job skills. Strongest overlaps: automation, cloud, site reliability"
     },
     {
-      "id": "5933207208",
-      "title": "Senior Director of Site Reliability Engineering",
-      "company": "ServiceNow, Inc.",
-      "location": "Edgewood, Orange County",
-      "description": "It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone-freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow- helping 85% of the Fortune 500® work smarter, faster, and better. We're bu…",
-      "url": "https://www.adzuna.com/details/5933207208?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-10-18T07:05:16Z",
-      "salary_min": 151484.11,
-      "salary_max": 151484.11,
+      "id": "5923118459",
+      "title": "Production Application Support Engineer",
+      "company": "CGI",
+      "location": "Cary, Wake County",
+      "description": "U.S. - The best version of me By playing this video you consent to Google/YouTube processing your data and using cookies – Learn more . Position Description: The best version of us starts with You! We CGI is seeking an experienced and motivated Production Application Support Engineer (Hybrid Cloud) to join our infrastructure team supporting a leading global Bank client. Knowledge of the Fixed Income product set, related market events, market data feeds and an understanding of the trading lifecy…",
+      "url": "https://www.adzuna.com/land/ad/5923118459?se=wspKQvnV8RGGCOFuy44SDg&utm_medium=api&utm_source=db5ba760&v=D2948042C342EF16BEB4544A39583B2C2F5DE70B",
+      "created": "2026-10-11T07:02:15Z",
+      "salary_min": 79600,
+      "salary_max": 79600,
+      "score": 98,
+      "matched": [
+        "cloud"
+      ],
+      "missing": [],
+      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: cloud"
+    },
+    {
+      "id": "5949175644",
+      "title": "Site Reliability Engineer",
+      "company": "Highmark Health",
+      "location": "Tallahassee, Leon County",
+      "description": "Company : Allegheny Health Network Job Description : GENERAL OVERVIEW: This job is responsible for the reliability, availability, and performance of critical healthcare IT systems, principally in the Environment of Care (EOC), enabling seamless access to essential services for patients, providers, and the people we serve. Proactively identifies and mitigates potential disruptions to maintain the highest standards of care and operational efficiency. This role blends software engineering, clinica…",
+      "url": "https://www.adzuna.com/details/5949175644?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-11-01T07:05:51Z",
+      "salary_min": 138361.81,
+      "salary_max": 138361.81,
       "score": 92,
       "matched": [
         "site reliability"
@@ -88,16 +72,16 @@
       "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
     },
     {
-      "id": "5947997568",
-      "title": "Software Engineer III, Site Reliability Engineering",
-      "company": "Google",
+      "id": "5949185318",
+      "title": "Site Reliability Engineer",
+      "company": "Highmark Health",
       "location": "Five Points, Wake County",
-      "description": "Software Engineer III, Site Reliability Engineering Share Software Engineer III, Site Reliability Engineering _corporate_fare_ Google _place_ Raleigh, NC, USA; Durham, NC, USA Mid Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area. Share Software Engineer III, Site Reliability Engineering _info_outline_ XIn most instances, this position requires in-person interviews as part of the hiring process.Note…",
-      "url": "https://www.adzuna.com/land/ad/5947997568?se=HgifrifV8RGRQOLR_vdAhg&utm_medium=api&utm_source=db5ba760&v=76B58AF71ED210923AD0C00095A9DE6B4BABF4C1",
-      "created": "2026-10-31T08:10:16Z",
-      "salary_min": 176806.36,
-      "salary_max": 176806.36,
-      "score": 84,
+      "description": "Company : Allegheny Health Network Job Description : GENERAL OVERVIEW: This job is responsible for the reliability, availability, and performance of critical healthcare IT systems, principally in the Environment of Care (EOC), enabling seamless access to essential services for patients, providers, and the people we serve. Proactively identifies and mitigates potential disruptions to maintain the highest standards of care and operational efficiency. This role blends software engineering, clinica…",
+      "url": "https://www.adzuna.com/land/ad/5949185318?se=5LLxQPnV8RGRQOLR_vdAhg&utm_medium=api&utm_source=db5ba760&v=A246155F49396A75B4B88E12C582AB705AE43BE8",
+      "created": "2026-11-01T07:07:46Z",
+      "salary_min": 155549.25,
+      "salary_max": 155549.25,
+      "score": 92,
       "matched": [
         "site reliability"
       ],
@@ -105,80 +89,91 @@
       "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
     },
     {
-      "id": "5947997558",
-      "title": "Software Engineer III, Site Reliability Engineering",
-      "company": "Google",
-      "location": "Durham, Durham County",
-      "description": "Software Engineer III, Site Reliability Engineering Share Software Engineer III, Site Reliability Engineering _corporate_fare_ Google _place_ Raleigh, NC, USA; Durham, NC, USA Mid Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area. Share Software Engineer III, Site Reliability Engineering _info_outline_ XIn most instances, this position requires in-person interviews as part of the hiring process.Note…",
-      "url": "https://www.adzuna.com/land/ad/5947997558?se=HgifrifV8RGRQOLR_vdAhg&utm_medium=api&utm_source=db5ba760&v=0F663E568577844CB5F36BDFDB48196E9499F597",
-      "created": "2026-10-31T08:10:16Z",
-      "salary_min": 161590.2,
-      "salary_max": 161590.2,
-      "score": 84,
+      "id": "5948111199",
+      "title": "Sustain Team Lead - Production Support / SRE",
+      "company": "INFOSYS NOVA HOLDINGS",
+      "location": "Charlotte, Mecklenburg County",
+      "description": "Sustain Team Lead - Production Support / SRE Kaleidoscope, an Infosys Company, is an equal opportunity employer, and all qualified applicants will receive consideration without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, spouse of protected veteran, or disability. Position Overview We are seeking an experienced Onshore Sustain Team Lead with a strong background in production support, data engineering, and Site Reliability…",
+      "url": "https://www.adzuna.com/land/ad/5948111199?se=wspKQvnV8RGGCOFuy44SDg&utm_medium=api&utm_source=db5ba760&v=5CF6FE8C35BC7D9B7903A43BF70BA2309CA922DD",
+      "created": "2026-10-31T10:06:19Z",
+      "salary_min": 80000,
+      "salary_max": 120000,
+      "score": 62,
       "matched": [
-        "site reliability"
-      ],
-      "missing": [],
-      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
-    },
-    {
-      "id": "5943902382",
-      "title": "DevOps / Site Reliability Engineer (SRE) - GCP",
-      "company": "SFE",
-      "location": "Florida",
-      "description": "Role DevOps / Site Reliability Engineer (SRE) - GCP Location Dallas, TX | Tampa, FL (Onsite) Fulltime Job Description Must Have Technical/Functional Skills 5 years of experience in DevOps, Cloud Engineering, or Site Reliability Engineering. Strong hands-on experience with: Google Cloud Platform (GCP) Jenkins Kafka New Relic DevOps Automation Experience with Linux system administration. Expertise in CI/CD implementation and release management. Experience in monitoring, alerting, and observabilit…",
-      "url": "https://www.adzuna.com/details/5943902382?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-10-27T21:44:03Z",
-      "salary_min": 122368.27,
-      "salary_max": 122368.27,
-      "score": 73,
-      "matched": [
-        "automation",
-        "cloud",
-        "devops",
-        "linux",
         "site reliability",
         "sre"
       ],
       "missing": [
-        "ci/cd",
-        "gcp",
-        "jenkins"
+        "data engineering"
       ],
-      "reason": "Matches 6 of 9 detected job skills. Strongest overlaps: automation, cloud, devops, linux, site reliability"
+      "reason": "Matches 2 of 3 detected job skills. Strongest overlaps: site reliability, sre"
     },
     {
-      "id": "5947987728",
-      "title": "Lead Specialist, Oracle Support Delivery",
+      "id": "5948612477",
+      "title": "Lead Specialist, Oracle Support Delivery (Remote)",
       "company": "Civil Recruit",
       "location": "Los Angeles, Los Angeles County",
-      "description": "About the role The Lead Specialist, Oracle Support Delivery will lead remote production support operations and client delivery for Oracle EBS financial applications across Accounts Payable, Accounts Receivable, General Ledger, Cash Management, and iSupplier. This senior contract role requires a minimum of 10 years managing Oracle application support operations, expertise across Order to Cash and Procure to Pay cycles, strong financial process and controls knowledge, and the ability to drive ser…",
-      "url": "https://www.adzuna.com/details/5947987728?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-10-31T08:07:05Z",
-      "salary_min": 62463.25,
-      "salary_max": 62463.25,
-      "score": 61,
+      "description": "Job Description Job Description About the role The Lead Specialist, Oracle Support Delivery will lead remote production support operations and client delivery for Oracle EBS financial applications across Accounts Payable, Accounts Receivable, General Ledger, Cash Management, and iSupplier. This senior contract role requires a minimum of 10 years managing Oracle application support operations, expertise across Order to Cash and Procure to Pay cycles, strong financial process and controls knowled…",
+      "url": "https://www.adzuna.com/land/ad/5948612477?se=uBXNQvnV8RG-lq2BCcoPJQ&utm_medium=api&utm_source=db5ba760&v=16E202846EFE8D98DDDC232600CF2670EA2CBCD4",
+      "created": "2026-11-01T00:05:47Z",
+      "salary_min": 64049.13,
+      "salary_max": 64049.13,
+      "score": 58,
       "matched": [],
       "missing": [],
       "reason": "Matches 0 of 0 detected job skills. Review the full description for transferable experience."
     },
     {
-      "id": "5947843103",
-      "title": "Tier 3 Production Support Lead",
-      "company": "Jobot",
-      "location": "Clearwater, Pinellas County",
-      "description": "Tier3 Support / financial services industry / st. pete This Jobot Job is hosted by: Katrina McFillin Are you a fit? Easy Apply now by clicking the \"Quick Apply\" button and sending us your resume. Salary: $130,000 - $155,000 per year A bit about us: We’re a growing financial services and technology firm helping independent financial advisors build thriving businesses and deliver personalized wealth management services. Our platform brings together technology, data, and operational support so adv…",
-      "url": "https://www.adzuna.com/details/5947843103?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-10-31T05:25:26Z",
-      "salary_min": 130000,
-      "salary_max": 155000,
-      "score": 58,
+      "id": "5949163443",
+      "title": "Production Support Analyst Senior",
+      "company": "City National Bank",
+      "location": "Tallahassee, Leon County",
+      "description": "*PRODUCTION SUPPORT ANALYST SENIOR* WHAT IS THE OPPORTUNITY? The Production Support Senior Analyst will be responsible for providing operational and maintenance production support for Treasury Management applications (e.g., ACH, Bill Pay, eDeposit, Positive Pay, Treasury Net, etc.). Responsibilities include monitoring scheduled production activities and confirming success, providing trouble item resolution, coordinating with third party vendors and internal IT technology groups to resolve syste…",
+      "url": "https://www.adzuna.com/details/5949163443?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-11-01T07:02:42Z",
+      "salary_min": 67588.48,
+      "salary_max": 67588.48,
+      "score": 55,
+      "matched": [],
+      "missing": [],
+      "reason": "Matches 0 of 0 detected job skills. Review the full description for transferable experience."
+    },
+    {
+      "id": "5948806195",
+      "title": "Principal Site Reliability Engineer (Remote) with Security Clearance",
+      "company": "BAE Systems",
+      "location": "Merrimack, Hillsborough County",
+      "description": "Job Description See what you're missing. Our employees work on the world's most advanced electronics - from detecting threats for F-35 pilots to illuminating the night for soldiers. Spanning air, land, sea, and space, we are developing the technology of tomorrow, delivered today. Drawing strength from our differences, we're innovating for the future. And you can, too. Our flexible work environment provides you a chance to change the world without giving up your personal life. We put our custome…",
+      "url": "https://www.adzuna.com/land/ad/5948806195?se=1HtvQfnV8RG-lq2BCcoPJQ&utm_medium=api&utm_source=db5ba760&v=6355452D516FAA1C6CC0AAABC1F721B9DE920DF1",
+      "created": "2026-11-01T02:16:44Z",
+      "salary_min": 258916.78,
+      "salary_max": 258916.78,
+      "score": 48,
+      "matched": [
+        "site reliability"
+      ],
+      "missing": [
+        "security"
+      ],
+      "reason": "Matches 1 of 2 detected job skills. Strongest overlaps: site reliability"
+    },
+    {
+      "id": "5949137355",
+      "title": "Sr. Waterfront Production Support Analyst",
+      "company": "Serco",
+      "location": "Pensacola, Escambia County",
+      "description": "Position Description & Qualifications If you love high profile and challenging programing projects supporting the US Navy- Serco has a great opportunity for you! The Sr. Waterfront Production Support Analyst will support US Navy shipbuilding oversight efforts in Pascagoula MS. Bring your expertise and collaborative skills to make an impact towards our military defense and safety of our sailors. This position is contingent upon your ability to obtain and maintain an active DoD Secret level clear…",
+      "url": "https://www.adzuna.com/details/5949137355?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-11-01T06:57:25Z",
+      "salary_min": 77686.59,
+      "salary_max": 77686.59,
+      "score": 47,
       "matched": [],
       "missing": [],
       "reason": "Matches 0 of 0 detected job skills. Review the full description for transferable experience."
     }
   ],
-  "total_new": 17,
+  "total_new": 10,
   "email_sent": false,
   "errors": []
 }
