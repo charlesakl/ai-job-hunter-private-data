@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-02",
+  "matches": [
+    {
+      "id": "5950522844",
+      "title": "Site Reliability Engineer - Vice President",
+      "company": "Citigroup",
+      "location": "Tampa, Hillsborough County",
+      "description": "The Applications Development Senior Manager is a senior management level position responsible for accomplishing results through the management of a team or department in an effort to establish and implement new or revised application systems and programs in coordination with the Technology team. The overall objective of this role is to drive applications systems analysis and programming activities. The Site Reliability Engineer is a senior level position responsible for establishing and impleme…",
+      "url": "https://www.adzuna.com/details/5950522844?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-11-02T07:01:39Z",
+      "salary_min": 144144.9,
+      "salary_max": 144144.9,
+      "score": 100,
+      "matched": [
+        "site reliability"
+      ],
+      "missing": [],
+      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
+    },
+    {
+      "id": "5943742541",
+      "title": "Manager, Site Reliability Engineering (Cloud & On-Prem)",
+      "company": "The Walt Disney Company",
+      "location": "Celebration, Osceola County",
+      "description": "Job Requirements Job Description “We Power the Magic!” That’s our motto at Disney Experiences (DX). Our team creates world-class immersive digital experiences for the Company’s premier vacation brands, with a focus on Disney Signature Experiences (DSE) — including Disney Cruise Line (DCL), Adventures by Disney (ABD), National Geographic Expeditions, Aulani, a Disney Resort & Spa, and Disney Vacation Club. We are responsible for the end-to-end digital and physical Guest experience for technology…",
+      "url": "https://www.adzuna.com/details/5943742541?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-10-27T17:09:26Z",
+      "salary_min": 151227.61,
+      "salary_max": 151227.61,
+      "score": 86,
+      "matched": [
+        "cloud",
+        "site reliability"
+      ],
+      "missing": [],
+      "reason": "Matches 2 of 2 detected job skills. Strongest overlaps: cloud, site reliability"
+    },
+    {
+      "id": "5950072605",
+      "title": "Site Reliability Engineer",
+      "company": "HTC Global Services Inc",
+      "location": "Newell, Mecklenburg County",
+      "description": "Senior Site Reliability Engineer (SRE) – PagerDuty / Moogsoft Migration Position Overview Lead a critical observability and incident-management transformation by migrating from the legacy Moogsoft AIOps platform to PagerDuty. This role focuses on redesigning incident management workflows, implementing event orchestration, integrating monitoring platforms, and enabling a seamless transition to PagerDuty for live production monitoring. What You'll Do / Key Responsibilities Lead the migration from…",
+      "url": "https://www.adzuna.com/land/ad/5950072605?se=xLBEQ8XW8RGgYNUJWhMofw&utm_medium=api&utm_source=db5ba760&v=3052EE505A0AB39C3910A88A1A0DFE111E49845D",
+      "created": "2026-11-01T21:31:20Z",
+      "salary_min": 103921.26,
+      "salary_max": 103921.26,
+      "score": 81,
+      "matched": [
+        "observability",
+        "site reliability",
+        "sre"
+      ],
+      "missing": [
+        "incident management"
+      ],
+      "reason": "Matches 3 of 4 detected job skills. Strongest overlaps: observability, site reliability, sre"
+    },
+    {
+      "id": "5949914684",
+      "title": "AI Agent & Automation Engineer",
+      "company": "Tyndale",
+      "location": "Pipersville, Bucks County",
+      "description": "Job Description Job Description Overview Tyndale is expanding our AI and automation capabilities and seeking an experienced AI Agent & Automation Engineer to build production solutions that transform how work gets done across the business. This is a senior, hands-on engineering role focused on designing, building, deploying, and supporting business automations and AI agents in AWS. You’ll combine Python development, APIs, enterprise integrations, workflow automation, and agentic AI to turn manu…",
+      "url": "https://www.adzuna.com/land/ad/5949914684?se=PkRORcXW8RGCOJ-hgtHHpQ&utm_medium=api&utm_source=db5ba760&v=D854B0AF5E76074409AC7A7341AD6CA1B3D5639A",
+      "created": "2026-11-01T18:15:10Z",
+      "salary_min": 91976.72,
+      "salary_max": 91976.72,
+      "score": 64,
+      "matched": [
+        "automation",
+        "aws"
+      ],
+      "missing": [
+        "python"
+      ],
+      "reason": "Matches 2 of 3 detected job skills. Strongest overlaps: automation, aws"
+    },
+    {
+      "id": "5950543721",
+      "title": "Lead Principal Site Reliability Engineer",
+      "company": "Oracle",
+      "location": "Five Points, Wake County",
+      "description": "Job Description Serves as a consultant and leads the design and architecture of infrastructure and service, ensuring alignment with reliability and functionality standards. Takes full ownership of forecasting of demands and responding to capacity needs. Owns collaborations with software development teams to develop reliable and scalable infrastructures. Recommends methods for performing data collection to maintain and optimize operations and reliability. Oversees incident response and/or mainte…",
+      "url": "https://www.adzuna.com/land/ad/5950543721?se=xLBEQ8XW8RGgYNUJWhMofw&utm_medium=api&utm_source=db5ba760&v=911A693604E95F10DF6A3F02CCEB123A6B15C3A6",
+      "created": "2026-11-02T07:25:13Z",
+      "salary_min": 220840.67,
+      "salary_max": 220840.67,
+      "score": 58,
+      "matched": [
+        "site reliability"
+      ],
+      "missing": [
+        "design"
+      ],
+      "reason": "Matches 1 of 2 detected job skills. Strongest overlaps: site reliability"
+    },
+    {
+      "id": "5901511962",
+      "title": "Production Support Analyst Senior",
+      "company": "City National Bank",
+      "location": "Charlotte, Mecklenburg County",
+      "description": "*PRODUCTION SUPPORT ANALYST SENIOR* WHAT IS THE OPPORTUNITY? The Production Support Senior Analyst will be responsible for providing operational and maintenance production support for Treasury Management applications (e.g., ACH, Bill Pay, eDeposit, Positive Pay, Treasury Net, etc.). Responsibilities include monitoring scheduled production activities and confirming success, providing trouble item resolution, coordinating with third party vendors and internal IT technology groups to resolve syste…",
+      "url": "https://www.adzuna.com/land/ad/5901511962?se=4um-RMXW8RGCOJ-hgtHHpQ&utm_medium=api&utm_source=db5ba760&v=667CF0077FF41614CD75D8561D626D51133CD1F5",
+      "created": "2026-09-28T06:58:53Z",
+      "salary_min": 66648.15,
+      "salary_max": 66648.15,
+      "score": 55,
+      "matched": [],
+      "missing": [],
+      "reason": "Matches 0 of 0 detected job skills. Review the full description for transferable experience."
+    },
+    {
+      "id": "5950080991",
+      "title": "Production Support",
+      "company": "ComTec",
+      "location": "Malabar, Brevard County",
+      "description": "Title: Production Support Location: Malabar, FL Duration: 12 Months Schedule:4/10 Monday - Thursday Hours: 5:00 AM - 3:30 PM. Description: Oversees and coordinates a production team to efficiently process work in accordance with a production plan and to promote and deliver high quality output. Works with Operations Management to execute in accordance a system of manufacturing standards and follow company policies and procedures. Encourages team members to drive continual improvement in their pr…",
+      "url": "https://www.adzuna.com/land/ad/5950080991?se=ZmhERMXW8RG4TJiZs36Mgg&utm_medium=api&utm_source=db5ba760&v=7A48D062719C8305D259C030FAE57FDCFEB053C9",
+      "created": "2026-11-01T21:32:08Z",
+      "salary_min": 84975.61,
+      "salary_max": 84975.61,
+      "score": 48,
+      "matched": [],
+      "missing": [],
+      "reason": "Matches 0 of 0 detected job skills. Review the full description for transferable experience."
+    },
+    {
+      "id": "5950081075",
+      "title": "Production Support",
+      "company": "ComTec",
+      "location": "Malabar, Brevard County",
+      "description": "Schedule:4/10 Monday - Thursday Hours: 5:00 AM - 3:30 PM. Description: Oversees and coordinates a production team to efficiently process work in accordance with a production plan and to promote and deliver high quality output. Works with Operations Management to execute in accordance a system of manufacturing standards and follow company policies and procedures. Encourages team members to drive continual improvement in their production area using the HBX tool set. Act as the go-to person for em…",
+      "url": "https://www.adzuna.com/land/ad/5950081075?se=ZmhERMXW8RG4TJiZs36Mgg&utm_medium=api&utm_source=db5ba760&v=89B07354773085BF862F0338B5E0EC658EB93583",
+      "created": "2026-11-01T21:32:08Z",
+      "salary_min": 41600,
+      "salary_max": 49920,
+      "score": 11,
+      "matched": [],
+      "missing": [
+        "go"
+      ],
+      "reason": "Matches 0 of 1 detected job skills. Review the full description for transferable experience."
+    }
+  ],
+  "total_new": 8,
+  "email_sent": false,
+  "errors": []
+}
