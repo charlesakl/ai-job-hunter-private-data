@@ -1,49 +1,49 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "matches": [
     {
-      "id": "5950522844",
-      "title": "Site Reliability Engineer - Vice President",
-      "company": "Citigroup",
-      "location": "Tampa, Hillsborough County",
-      "description": "The Applications Development Senior Manager is a senior management level position responsible for accomplishing results through the management of a team or department in an effort to establish and implement new or revised application systems and programs in coordination with the Technology team. The overall objective of this role is to drive applications systems analysis and programming activities. The Site Reliability Engineer is a senior level position responsible for establishing and impleme…",
-      "url": "https://www.adzuna.com/details/5950522844?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-11-02T07:01:39Z",
-      "salary_min": 144144.9,
-      "salary_max": 144144.9,
-      "score": 100,
+      "id": "5939077339",
+      "title": "Site Reliability Engineer",
+      "company": "Genesis10",
+      "location": "Charlotte, Mecklenburg County",
+      "description": "Genesis10 is currently seeking a Reliability Engineer for a Remote position with a Global Financial Institution located in Charlotte, NC or Plano, TX. This is a 12 month contract opportunity. This role is responsible for partnering with leaders across engineering and technology to define objective reliability goals for services. The ideal candidate will compose observability designs through instrumentation and dashboards, identify root causes of complex issues, and partner with cross-functional…",
+      "url": "https://www.adzuna.com/land/ad/5939077339?se=yDYsgI7X8RGFWqjtYnx9Yg&utm_medium=api&utm_source=db5ba760&v=CBC55C33B3D14A6EF0F8BB7D3BD0B8AE2D13D056",
+      "created": "2026-10-23T06:11:23Z",
+      "salary_min": 141569.38,
+      "salary_max": 141569.38,
+      "score": 92,
       "matched": [
+        "observability",
         "site reliability"
       ],
       "missing": [],
-      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
+      "reason": "Matches 2 of 2 detected job skills. Strongest overlaps: observability, site reliability"
     },
     {
-      "id": "5943742541",
-      "title": "Manager, Site Reliability Engineering (Cloud & On-Prem)",
-      "company": "The Walt Disney Company",
-      "location": "Celebration, Osceola County",
-      "description": "Job Requirements Job Description “We Power the Magic!” That’s our motto at Disney Experiences (DX). Our team creates world-class immersive digital experiences for the Company’s premier vacation brands, with a focus on Disney Signature Experiences (DSE) — including Disney Cruise Line (DCL), Adventures by Disney (ABD), National Geographic Expeditions, Aulani, a Disney Resort & Spa, and Disney Vacation Club. We are responsible for the end-to-end digital and physical Guest experience for technology…",
-      "url": "https://www.adzuna.com/details/5943742541?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-10-27T17:09:26Z",
-      "salary_min": 151227.61,
-      "salary_max": 151227.61,
-      "score": 86,
+      "id": "5951369762",
+      "title": "Production Support Engineer",
+      "company": "Bright Vision Technologies",
+      "location": "Edison, Middlesex County",
+      "description": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is an opportunity to contribute to technology initiatives in a collaborative environment with opportunities for professional growth. Job Title: Production Support Engineer Location: Remote Position Type: Full-time, Direct W2 - [Not open to C2C or 1099] Salary Range: $115,000–$165,000 Annually Experience Required: 10  years Spo…",
+      "url": "https://www.adzuna.com/details/5951369762?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-11-02T23:16:48Z",
+      "salary_min": 90888.16,
+      "salary_max": 90888.16,
+      "score": 88,
       "matched": [
-        "cloud",
-        "site reliability"
+        "cloud"
       ],
       "missing": [],
-      "reason": "Matches 2 of 2 detected job skills. Strongest overlaps: cloud, site reliability"
+      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: cloud"
     },
     {
-      "id": "5950072605",
+      "id": "5951234779",
       "title": "Site Reliability Engineer",
       "company": "HTC Global Services Inc",
       "location": "Newell, Mecklenburg County",
       "description": "Senior Site Reliability Engineer (SRE) – PagerDuty / Moogsoft Migration Position Overview Lead a critical observability and incident-management transformation by migrating from the legacy Moogsoft AIOps platform to PagerDuty. This role focuses on redesigning incident management workflows, implementing event orchestration, integrating monitoring platforms, and enabling a seamless transition to PagerDuty for live production monitoring. What You'll Do / Key Responsibilities Lead the migration from…",
-      "url": "https://www.adzuna.com/land/ad/5950072605?se=xLBEQ8XW8RGgYNUJWhMofw&utm_medium=api&utm_source=db5ba760&v=3052EE505A0AB39C3910A88A1A0DFE111E49845D",
-      "created": "2026-11-01T21:31:20Z",
+      "url": "https://www.adzuna.com/land/ad/5951234779?se=yDYsgI7X8RGFWqjtYnx9Yg&utm_medium=api&utm_source=db5ba760&v=5BA55C83049BB13A4D1663A9F8507A4A9569B0A8",
+      "created": "2026-11-02T21:33:32Z",
       "salary_min": 103921.26,
       "salary_max": 103921.26,
       "score": 81,
@@ -58,35 +58,85 @@
       "reason": "Matches 3 of 4 detected job skills. Strongest overlaps: observability, site reliability, sre"
     },
     {
-      "id": "5949914684",
-      "title": "AI Agent & Automation Engineer",
-      "company": "Tyndale",
-      "location": "Pipersville, Bucks County",
-      "description": "Job Description Job Description Overview Tyndale is expanding our AI and automation capabilities and seeking an experienced AI Agent & Automation Engineer to build production solutions that transform how work gets done across the business. This is a senior, hands-on engineering role focused on designing, building, deploying, and supporting business automations and AI agents in AWS. You’ll combine Python development, APIs, enterprise integrations, workflow automation, and agentic AI to turn manu…",
-      "url": "https://www.adzuna.com/land/ad/5949914684?se=PkRORcXW8RGCOJ-hgtHHpQ&utm_medium=api&utm_source=db5ba760&v=D854B0AF5E76074409AC7A7341AD6CA1B3D5639A",
-      "created": "2026-11-01T18:15:10Z",
-      "salary_min": 91976.72,
-      "salary_max": 91976.72,
-      "score": 64,
+      "id": "5950951747",
+      "title": "Production Support Engineer",
+      "company": "Fixity Technologies",
+      "location": "Cary, Wake County",
+      "description": "Job Description Job Title : Production Support Engineer Employment Type: Full Time (Onsite) Experience: 6 8 yrs Location: Cary, NC Must Have Technical/Functional Skills Strong understanding of Linux/Unix administration and network infrastructure; SQL querying and database troubleshooting Support Mechanisms REST API monitoring and troubleshooting; JSON/XML payload analysis Google Cloud Platform OpenShift/Kubernetes administration; Microservices architecture support; Containerized application tro…",
+      "url": "https://www.adzuna.com/land/ad/5950951747?se=OiMxgY7X8RGlPcJxtqMb2Q&utm_medium=api&utm_source=db5ba760&v=62B0C91565D7335E068AD3B29B35028976D4521D",
+      "created": "2026-11-02T17:17:01Z",
+      "salary_min": 102122.45,
+      "salary_max": 102122.45,
+      "score": 77,
       "matched": [
-        "automation",
-        "aws"
+        "cloud",
+        "kubernetes",
+        "linux",
+        "microservices",
+        "openshift",
+        "sql"
       ],
       "missing": [
-        "python"
+        "api",
+        "rest"
       ],
-      "reason": "Matches 2 of 3 detected job skills. Strongest overlaps: automation, aws"
+      "reason": "Matches 6 of 8 detected job skills. Strongest overlaps: cloud, kubernetes, linux, microservices, openshift"
     },
     {
-      "id": "5950543721",
+      "id": "5934134522",
+      "title": "Senior Site Reliability Engineer",
+      "company": "Oracle",
+      "location": "Tallahassee, Leon County",
+      "description": "Job Description OCI Incident Response is the first line of defense in maintaining the high availability of Oracle's cloud. We minimize customer-impacting events by making them shorter, less frequent, and less impactful through large-scale incident management. We are at the forefront of reducing event duration by leveraging our operational experience, knowledge of best practices, and ability to develop tools that automate incident management. Description We are looking for a Senior Site Reliabil…",
+      "url": "https://www.adzuna.com/details/5934134522?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-10-19T07:19:02Z",
+      "salary_min": 149365.3,
+      "salary_max": 149365.3,
+      "score": 70,
+      "matched": [
+        "cloud",
+        "site reliability"
+      ],
+      "missing": [
+        "incident management"
+      ],
+      "reason": "Matches 2 of 3 detected job skills. Strongest overlaps: cloud, site reliability"
+    },
+    {
+      "id": "5951146705",
+      "title": "Production Support Engineer",
+      "company": "Fixity Technologies LLC",
+      "location": "Cary, Wake County",
+      "description": "Job Description Job Title : Production Support Engineer Employment Type: Full Time (Onsite) Experience: 6 8 yrs Location: Cary, NC Must Have Technical/Functional Skills Strong understanding of Linux/Unix administration and network infrastructure; SQL querying and database troubleshooting Support Mechanisms REST API monitoring and troubleshooting; JSON/XML payload analysis GCP OpenShift/Kubernetes administration; Microservices architecture support; Containerized application troubleshooting; Cert…",
+      "url": "https://www.adzuna.com/details/5951146705?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-11-02T21:20:27Z",
+      "salary_min": 80000,
+      "salary_max": 90000,
+      "score": 64,
+      "matched": [
+        "kubernetes",
+        "linux",
+        "microservices",
+        "openshift",
+        "sql"
+      ],
+      "missing": [
+        "api",
+        "gcp",
+        "rest"
+      ],
+      "reason": "Matches 5 of 8 detected job skills. Strongest overlaps: kubernetes, linux, microservices, openshift, sql"
+    },
+    {
+      "id": "5951659173",
       "title": "Lead Principal Site Reliability Engineer",
       "company": "Oracle",
-      "location": "Five Points, Wake County",
+      "location": "Tallahassee, Leon County",
       "description": "Job Description Serves as a consultant and leads the design and architecture of infrastructure and service, ensuring alignment with reliability and functionality standards. Takes full ownership of forecasting of demands and responding to capacity needs. Owns collaborations with software development teams to develop reliable and scalable infrastructures. Recommends methods for performing data collection to maintain and optimize operations and reliability. Oversees incident response and/or mainte…",
-      "url": "https://www.adzuna.com/land/ad/5950543721?se=xLBEQ8XW8RGgYNUJWhMofw&utm_medium=api&utm_source=db5ba760&v=911A693604E95F10DF6A3F02CCEB123A6B15C3A6",
-      "created": "2026-11-02T07:25:13Z",
-      "salary_min": 220840.67,
-      "salary_max": 220840.67,
+      "url": "https://www.adzuna.com/details/5951659173?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-11-03T07:10:18Z",
+      "salary_min": 196438.86,
+      "salary_max": 196438.86,
       "score": 58,
       "matched": [
         "site reliability"
@@ -97,54 +147,68 @@
       "reason": "Matches 1 of 2 detected job skills. Strongest overlaps: site reliability"
     },
     {
-      "id": "5901511962",
-      "title": "Production Support Analyst Senior",
-      "company": "City National Bank",
-      "location": "Charlotte, Mecklenburg County",
-      "description": "*PRODUCTION SUPPORT ANALYST SENIOR* WHAT IS THE OPPORTUNITY? The Production Support Senior Analyst will be responsible for providing operational and maintenance production support for Treasury Management applications (e.g., ACH, Bill Pay, eDeposit, Positive Pay, Treasury Net, etc.). Responsibilities include monitoring scheduled production activities and confirming success, providing trouble item resolution, coordinating with third party vendors and internal IT technology groups to resolve syste…",
-      "url": "https://www.adzuna.com/land/ad/5901511962?se=4um-RMXW8RGCOJ-hgtHHpQ&utm_medium=api&utm_source=db5ba760&v=667CF0077FF41614CD75D8561D626D51133CD1F5",
-      "created": "2026-09-28T06:58:53Z",
-      "salary_min": 66648.15,
-      "salary_max": 66648.15,
-      "score": 55,
-      "matched": [],
-      "missing": [],
-      "reason": "Matches 0 of 0 detected job skills. Review the full description for transferable experience."
-    },
-    {
-      "id": "5950080991",
-      "title": "Production Support",
-      "company": "ComTec",
-      "location": "Malabar, Brevard County",
-      "description": "Title: Production Support Location: Malabar, FL Duration: 12 Months Schedule:4/10 Monday - Thursday Hours: 5:00 AM - 3:30 PM. Description: Oversees and coordinates a production team to efficiently process work in accordance with a production plan and to promote and deliver high quality output. Works with Operations Management to execute in accordance a system of manufacturing standards and follow company policies and procedures. Encourages team members to drive continual improvement in their pr…",
-      "url": "https://www.adzuna.com/land/ad/5950080991?se=ZmhERMXW8RG4TJiZs36Mgg&utm_medium=api&utm_source=db5ba760&v=7A48D062719C8305D259C030FAE57FDCFEB053C9",
-      "created": "2026-11-01T21:32:08Z",
-      "salary_min": 84975.61,
-      "salary_max": 84975.61,
-      "score": 48,
-      "matched": [],
-      "missing": [],
-      "reason": "Matches 0 of 0 detected job skills. Review the full description for transferable experience."
-    },
-    {
-      "id": "5950081075",
-      "title": "Production Support",
-      "company": "ComTec",
-      "location": "Malabar, Brevard County",
-      "description": "Schedule:4/10 Monday - Thursday Hours: 5:00 AM - 3:30 PM. Description: Oversees and coordinates a production team to efficiently process work in accordance with a production plan and to promote and deliver high quality output. Works with Operations Management to execute in accordance a system of manufacturing standards and follow company policies and procedures. Encourages team members to drive continual improvement in their production area using the HBX tool set. Act as the go-to person for em…",
-      "url": "https://www.adzuna.com/land/ad/5950081075?se=ZmhERMXW8RG4TJiZs36Mgg&utm_medium=api&utm_source=db5ba760&v=89B07354773085BF862F0338B5E0EC658EB93583",
-      "created": "2026-11-01T21:32:08Z",
-      "salary_min": 41600,
-      "salary_max": 49920,
-      "score": 11,
-      "matched": [],
-      "missing": [
-        "go"
+      "id": "5950911701",
+      "title": "Azure Cloud Application Support Engineer (L2/L3 Production Support)",
+      "company": "VBEST Software Inc",
+      "location": "US",
+      "description": "Hello, Title: Azure Cloud Application Support Engineer (L2/L3 Production Support) Location: Remote Duration: 12 months Job Description: 5 years of IT experience. Strong experience in L3 production support and cloud application support. Experience supporting enterprise applications hosted on Microsoft Azure platform. Desirable Skills: - Familiarity with Angular. - Knowledge of Azure PaaS services. Responsibilities: Provide L2 production support for enterprise applications hosted on Microsoft Azu…",
+      "url": "https://www.adzuna.com/land/ad/5950911701?se=fqOjgY7X8RGA_ZzrneFVXQ&utm_medium=api&utm_source=db5ba760&v=CE6D52827E5693121425A9CB6D8641DE920A319D",
+      "created": "2026-11-02T14:25:23Z",
+      "salary_min": 95039.47,
+      "salary_max": 95039.47,
+      "score": 56,
+      "matched": [
+        "cloud"
       ],
-      "reason": "Matches 0 of 1 detected job skills. Review the full description for transferable experience."
+      "missing": [
+        "azure"
+      ],
+      "reason": "Matches 1 of 2 detected job skills. Strongest overlaps: cloud"
+    },
+    {
+      "id": "5950837694",
+      "title": "Salesforce Developer – Commerce Cloud",
+      "company": "S Linx LLC",
+      "location": "Texas City, Galveston County",
+      "description": "Job Title: Salesforce Developer – Commerce Cloud / L2 Production Support Location: Remote (CST Time Zone) Duration: 6 Months Job Description: We are looking for a skilled Salesforce Developer with strong hands-on experience in Salesforce Commerce Cloud and L2 production support. The ideal candidate will be responsible for troubleshooting production issues, performing root cause analysis, resolving incidents, and supporting Salesforce applications. Required Skills: Strong hands-on experience in …",
+      "url": "https://www.adzuna.com/land/ad/5950837694?se=fqOjgY7X8RGA_ZzrneFVXQ&utm_medium=api&utm_source=db5ba760&v=2714F290E08C94C63777A71990D8E30E6D24B7FF",
+      "created": "2026-11-02T12:52:57Z",
+      "salary_min": 141010.86,
+      "salary_max": 141010.86,
+      "score": 52,
+      "matched": [
+        "cloud"
+      ],
+      "missing": [
+        "salesforce"
+      ],
+      "reason": "Matches 1 of 2 detected job skills. Strongest overlaps: cloud"
+    },
+    {
+      "id": "5950911890",
+      "title": "Site Reliability Engineer || Remote (Must be from CST)",
+      "company": "AKAASA Technologies",
+      "location": "US",
+      "description": "Skills: Knowledge of software development and coding languages Python, GoLang, Java, .NET, and Node.js. understanding data processing proficiency in configuration design IT Infrastructure and monitoring management systems Experience with tools like ELK, Grafana is preferred. Education/Experience: Bachelor's degree in computer science, computer engineering, information technology, or relevant field. Proven background working in a technical, IT related position. 3-5 years of experience What would…",
+      "url": "https://www.adzuna.com/land/ad/5950911890?se=fPaFgI7X8RG-d7R47S4tPQ&utm_medium=api&utm_source=db5ba760&v=E6DE3B7F77C0BAB04D9F55154097024DC12028FF",
+      "created": "2026-11-02T14:25:52Z",
+      "salary_min": 96408.98,
+      "salary_max": 96408.98,
+      "score": 36,
+      "matched": [
+        "site reliability"
+      ],
+      "missing": [
+        "design",
+        "grafana",
+        "java",
+        "node.js",
+        "python"
+      ],
+      "reason": "Matches 1 of 6 detected job skills. Strongest overlaps: site reliability"
     }
   ],
-  "total_new": 8,
-  "email_sent": true,
+  "total_new": 14,
+  "email_sent": false,
   "errors": []
 }
