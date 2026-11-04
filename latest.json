@@ -1,34 +1,119 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "matches": [
     {
-      "id": "5939077339",
-      "title": "Site Reliability Engineer",
-      "company": "Genesis10",
-      "location": "Charlotte, Mecklenburg County",
-      "description": "Genesis10 is currently seeking a Reliability Engineer for a Remote position with a Global Financial Institution located in Charlotte, NC or Plano, TX. This is a 12 month contract opportunity. This role is responsible for partnering with leaders across engineering and technology to define objective reliability goals for services. The ideal candidate will compose observability designs through instrumentation and dashboards, identify root causes of complex issues, and partner with cross-functional…",
-      "url": "https://www.adzuna.com/land/ad/5939077339?se=yDYsgI7X8RGFWqjtYnx9Yg&utm_medium=api&utm_source=db5ba760&v=CBC55C33B3D14A6EF0F8BB7D3BD0B8AE2D13D056",
-      "created": "2026-10-23T06:11:23Z",
-      "salary_min": 141569.38,
-      "salary_max": 141569.38,
-      "score": 92,
+      "id": "5952859601",
+      "title": "Lead Site Reliability Engineer",
+      "company": "JPMorganChase",
+      "location": "Tampa, Hillsborough County",
+      "description": "Description Assume a critical role in defining the future of a globally recognized firm and have a direct and significant effect in a realm tailored for top achievers in site reliability. As a Lead Site Reliability Engineer at JPMorgan Chase within the Commercial and Investment, Merchant Services team , you hold a leadership role in your team, demonstrate strong knowledge across multiple technical domains, and advise others on the technical and business issues facing them. Take lead and conduct…",
+      "url": "https://www.adzuna.com/land/ad/5952859601?se=vMYebVfY8RGnmZbeCBV2fQ&utm_medium=api&utm_source=db5ba760&v=73C5D1294C3592AD93F700CFA4FA3D13D8C52038",
+      "created": "2026-11-04T06:40:43Z",
+      "salary_min": 196817.66,
+      "salary_max": 196817.66,
+      "score": 94,
       "matched": [
-        "observability",
+        "leadership",
         "site reliability"
       ],
       "missing": [],
-      "reason": "Matches 2 of 2 detected job skills. Strongest overlaps: observability, site reliability"
+      "reason": "Matches 2 of 2 detected job skills. Strongest overlaps: leadership, site reliability"
     },
     {
-      "id": "5951369762",
+      "id": "5952941376",
+      "title": "Manager Site Reliability Engineering",
+      "company": "Akamai Technologies, Inc.",
+      "location": "Tallahassee, Leon County",
+      "description": "Are you passionate about cutting edge technology? Do you enjoy working with a diverse multi-national team of engineering talents? Join our highly skilled Site Reliability team Our team designs, develops, and manages applications and infrastructure that support Akamai's Compute products and services. We do this while maintaining Akamai's mission at the forefront of what we do: make life better for billions of people, billions of times a day. Partner with the best In this role, you will lead the …",
+      "url": "https://www.adzuna.com/details/5952941376?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-11-04T08:11:27Z",
+      "salary_min": 174265.05,
+      "salary_max": 174265.05,
+      "score": 94,
+      "matched": [
+        "site reliability"
+      ],
+      "missing": [],
+      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
+    },
+    {
+      "id": "5952944107",
+      "title": "Manager Site Reliability Engineering",
+      "company": "Akamai Technologies, Inc.",
+      "location": "Five Points, Wake County",
+      "description": "Are you passionate about cutting edge technology? Do you enjoy working with a diverse multi-national team of engineering talents? Join our highly skilled Site Reliability team Our team designs, develops, and manages applications and infrastructure that support Akamai's Compute products and services. We do this while maintaining Akamai's mission at the forefront of what we do: make life better for billions of people, billions of times a day. Partner with the best In this role, you will lead the …",
+      "url": "https://www.adzuna.com/land/ad/5952944107?se=4iiCbVfY8RG1BbAFnbpeog&utm_medium=api&utm_source=db5ba760&v=A039B1E622CA3B3FD58A48DAE62487C4147C4329",
+      "created": "2026-11-04T08:11:54Z",
+      "salary_min": 195912.03,
+      "salary_max": 195912.03,
+      "score": 94,
+      "matched": [
+        "site reliability"
+      ],
+      "missing": [],
+      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
+    },
+    {
+      "id": "5952944175",
+      "title": "Senior II Site Reliability Engineer",
+      "company": "Akamai Technologies, Inc.",
+      "location": "Five Points, Wake County",
+      "description": "Are you passionate about cutting edge technology? Do you enjoy working with a diverse multi-national team of engineering talents? Join our highly skilled Site Reliability team Our team designs, develops, and manages applications and infrastructure that support Akamai's Compute products and services. We do this while maintaining Akamai's mission at the forefront of what we do: make life better for billions of people, billions of times a day. Partner with the best In this role, you will be at the…",
+      "url": "https://www.adzuna.com/land/ad/5952944175?se=4iiCbVfY8RG1BbAFnbpeog&utm_medium=api&utm_source=db5ba760&v=987EC66E705D3B4FCA1B1C98BEDB7B43792DBA2C",
+      "created": "2026-11-04T08:11:55Z",
+      "salary_min": 187433.08,
+      "salary_max": 187433.08,
+      "score": 92,
+      "matched": [
+        "site reliability"
+      ],
+      "missing": [],
+      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
+    },
+    {
+      "id": "5952944266",
+      "title": "Senior II Site Reliability Engineer",
+      "company": "Akamai Technologies, Inc.",
+      "location": "Five Points, Wake County",
+      "description": "Are you passionate about cutting edge technology? Do you enjoy working with a diverse multi-national team of engineering talents? Join our highly skilled Site Reliability team Our team designs, develops, and manages applications and infrastructure that support Akamai's Compute products and services. We do this while maintaining Akamai's mission at the forefront of what we do: make life better for billions of people, billions of times a day. Partner with the best In this role, you'll be at the f…",
+      "url": "https://www.adzuna.com/land/ad/5952944266?se=4iiCbVfY8RG1BbAFnbpeog&utm_medium=api&utm_source=db5ba760&v=E608A597873A215E72AD448CB6E21909F7B270CD",
+      "created": "2026-11-04T08:11:55Z",
+      "salary_min": 194590.89,
+      "salary_max": 194590.89,
+      "score": 92,
+      "matched": [
+        "site reliability"
+      ],
+      "missing": [],
+      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
+    },
+    {
+      "id": "5952980917",
+      "title": "Site Reliability Engineer III",
+      "company": "JPMorgan Chase",
+      "location": "Tampa, Hillsborough County",
+      "description": "Site Reliability Engineer III Tampa, FL, United States Job Information  Job Identification 210797149  Job Category Software Engineering  Business Unit Commercial & Investment Bank  Posting Date 11/02/2026, 09:15 PM  Locations 4915 Independence Pkwy, Tampa, FL, 33634, US  Job Schedule Full time Job Description There's nothing more exciting than being at the center of a rapidly growing field in technology and applying your skills to drive innovation and modernize the world's most complex and miss…",
+      "url": "https://www.adzuna.com/details/5952980917?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-11-04T08:19:32Z",
+      "salary_min": 289649.12,
+      "salary_max": 289649.12,
+      "score": 88,
+      "matched": [
+        "site reliability"
+      ],
+      "missing": [],
+      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
+    },
+    {
+      "id": "5952996971",
       "title": "Production Support Engineer",
       "company": "Bright Vision Technologies",
       "location": "Edison, Middlesex County",
       "description": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is an opportunity to contribute to technology initiatives in a collaborative environment with opportunities for professional growth. Job Title: Production Support Engineer Location: Remote Position Type: Full-time, Direct W2 - [Not open to C2C or 1099] Salary Range: $115,000–$165,000 Annually Experience Required: 10  years Spo…",
-      "url": "https://www.adzuna.com/details/5951369762?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-11-02T23:16:48Z",
-      "salary_min": 90888.16,
-      "salary_max": 90888.16,
+      "url": "https://www.adzuna.com/details/5952996971?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-11-04T08:37:54Z",
+      "salary_min": 115000,
+      "salary_max": 165000,
       "score": 88,
       "matched": [
         "cloud"
@@ -37,13 +122,13 @@
       "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: cloud"
     },
     {
-      "id": "5951234779",
+      "id": "5952195234",
       "title": "Site Reliability Engineer",
       "company": "HTC Global Services Inc",
       "location": "Newell, Mecklenburg County",
       "description": "Senior Site Reliability Engineer (SRE) – PagerDuty / Moogsoft Migration Position Overview Lead a critical observability and incident-management transformation by migrating from the legacy Moogsoft AIOps platform to PagerDuty. This role focuses on redesigning incident management workflows, implementing event orchestration, integrating monitoring platforms, and enabling a seamless transition to PagerDuty for live production monitoring. What You'll Do / Key Responsibilities Lead the migration from…",
-      "url": "https://www.adzuna.com/land/ad/5951234779?se=yDYsgI7X8RGFWqjtYnx9Yg&utm_medium=api&utm_source=db5ba760&v=5BA55C83049BB13A4D1663A9F8507A4A9569B0A8",
-      "created": "2026-11-02T21:33:32Z",
+      "url": "https://www.adzuna.com/land/ad/5952195234?se=4iiCbVfY8RG1BbAFnbpeog&utm_medium=api&utm_source=db5ba760&v=5551FF0F3D20DE1B26BDE660485E68CC45393297",
+      "created": "2026-11-03T19:52:31Z",
       "salary_min": 103921.26,
       "salary_max": 103921.26,
       "score": 81,
@@ -58,157 +143,49 @@
       "reason": "Matches 3 of 4 detected job skills. Strongest overlaps: observability, site reliability, sre"
     },
     {
-      "id": "5950951747",
-      "title": "Production Support Engineer",
-      "company": "Fixity Technologies",
-      "location": "Cary, Wake County",
-      "description": "Job Description Job Title : Production Support Engineer Employment Type: Full Time (Onsite) Experience: 6 8 yrs Location: Cary, NC Must Have Technical/Functional Skills Strong understanding of Linux/Unix administration and network infrastructure; SQL querying and database troubleshooting Support Mechanisms REST API monitoring and troubleshooting; JSON/XML payload analysis Google Cloud Platform OpenShift/Kubernetes administration; Microservices architecture support; Containerized application tro…",
-      "url": "https://www.adzuna.com/land/ad/5950951747?se=OiMxgY7X8RGlPcJxtqMb2Q&utm_medium=api&utm_source=db5ba760&v=62B0C91565D7335E068AD3B29B35028976D4521D",
-      "created": "2026-11-02T17:17:01Z",
-      "salary_min": 102122.45,
-      "salary_max": 102122.45,
-      "score": 77,
+      "id": "5952941400",
+      "title": "Site Reliability Engineer II",
+      "company": "Akamai Technologies, Inc.",
+      "location": "Tallahassee, Leon County",
+      "description": "Do you enjoy getting to the bottom of a packet that never arrived? Are you passionate about software-defined networking, secure connectivity, and making large-scale cloud infrastructure safe to change? Join our Site Reliability team The Cloud Networking SRE team designs, deploys, and maintains the applications and infrastructure behind Akamai Cloud's networking products. Our VPC and Cloud Firewall stack gives customers isolated private networks, stateful traffic filtering, and secure site-to-si…",
+      "url": "https://www.adzuna.com/details/5952941400?utm_medium=api&utm_source=db5ba760",
+      "created": "2026-11-04T08:11:27Z",
+      "salary_min": 178164.69,
+      "salary_max": 178164.69,
+      "score": 69,
       "matched": [
         "cloud",
-        "kubernetes",
-        "linux",
-        "microservices",
-        "openshift",
-        "sql"
+        "site reliability",
+        "sre"
       ],
       "missing": [
-        "api",
-        "rest"
+        "networking"
       ],
-      "reason": "Matches 6 of 8 detected job skills. Strongest overlaps: cloud, kubernetes, linux, microservices, openshift"
+      "reason": "Matches 3 of 4 detected job skills. Strongest overlaps: cloud, site reliability, sre"
     },
     {
-      "id": "5934134522",
-      "title": "Senior Site Reliability Engineer",
-      "company": "Oracle",
-      "location": "Tallahassee, Leon County",
-      "description": "Job Description OCI Incident Response is the first line of defense in maintaining the high availability of Oracle's cloud. We minimize customer-impacting events by making them shorter, less frequent, and less impactful through large-scale incident management. We are at the forefront of reducing event duration by leveraging our operational experience, knowledge of best practices, and ability to develop tools that automate incident management. Description We are looking for a Senior Site Reliabil…",
-      "url": "https://www.adzuna.com/details/5934134522?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-10-19T07:19:02Z",
-      "salary_min": 149365.3,
-      "salary_max": 149365.3,
-      "score": 70,
+      "id": "5952944208",
+      "title": "Site Reliability Engineer II",
+      "company": "Akamai Technologies, Inc.",
+      "location": "Five Points, Wake County",
+      "description": "Do you enjoy getting to the bottom of a packet that never arrived? Are you passionate about software-defined networking, secure connectivity, and making large-scale cloud infrastructure safe to change? Join our Site Reliability team The Cloud Networking SRE team designs, deploys, and maintains the applications and infrastructure behind Akamai Cloud's networking products. Our VPC and Cloud Firewall stack gives customers isolated private networks, stateful traffic filtering, and secure site-to-si…",
+      "url": "https://www.adzuna.com/land/ad/5952944208?se=4iiCbVfY8RG1BbAFnbpeog&utm_medium=api&utm_source=db5ba760&v=E005C68782D004432E6A291043D71363A15EE861",
+      "created": "2026-11-04T08:11:55Z",
+      "salary_min": 200296.08,
+      "salary_max": 200296.08,
+      "score": 69,
       "matched": [
         "cloud",
-        "site reliability"
+        "site reliability",
+        "sre"
       ],
       "missing": [
-        "incident management"
+        "networking"
       ],
-      "reason": "Matches 2 of 3 detected job skills. Strongest overlaps: cloud, site reliability"
-    },
-    {
-      "id": "5951146705",
-      "title": "Production Support Engineer",
-      "company": "Fixity Technologies LLC",
-      "location": "Cary, Wake County",
-      "description": "Job Description Job Title : Production Support Engineer Employment Type: Full Time (Onsite) Experience: 6 8 yrs Location: Cary, NC Must Have Technical/Functional Skills Strong understanding of Linux/Unix administration and network infrastructure; SQL querying and database troubleshooting Support Mechanisms REST API monitoring and troubleshooting; JSON/XML payload analysis GCP OpenShift/Kubernetes administration; Microservices architecture support; Containerized application troubleshooting; Cert…",
-      "url": "https://www.adzuna.com/details/5951146705?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-11-02T21:20:27Z",
-      "salary_min": 80000,
-      "salary_max": 90000,
-      "score": 64,
-      "matched": [
-        "kubernetes",
-        "linux",
-        "microservices",
-        "openshift",
-        "sql"
-      ],
-      "missing": [
-        "api",
-        "gcp",
-        "rest"
-      ],
-      "reason": "Matches 5 of 8 detected job skills. Strongest overlaps: kubernetes, linux, microservices, openshift, sql"
-    },
-    {
-      "id": "5951659173",
-      "title": "Lead Principal Site Reliability Engineer",
-      "company": "Oracle",
-      "location": "Tallahassee, Leon County",
-      "description": "Job Description Serves as a consultant and leads the design and architecture of infrastructure and service, ensuring alignment with reliability and functionality standards. Takes full ownership of forecasting of demands and responding to capacity needs. Owns collaborations with software development teams to develop reliable and scalable infrastructures. Recommends methods for performing data collection to maintain and optimize operations and reliability. Oversees incident response and/or mainte…",
-      "url": "https://www.adzuna.com/details/5951659173?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-11-03T07:10:18Z",
-      "salary_min": 196438.86,
-      "salary_max": 196438.86,
-      "score": 58,
-      "matched": [
-        "site reliability"
-      ],
-      "missing": [
-        "design"
-      ],
-      "reason": "Matches 1 of 2 detected job skills. Strongest overlaps: site reliability"
-    },
-    {
-      "id": "5950911701",
-      "title": "Azure Cloud Application Support Engineer (L2/L3 Production Support)",
-      "company": "VBEST Software Inc",
-      "location": "US",
-      "description": "Hello, Title: Azure Cloud Application Support Engineer (L2/L3 Production Support) Location: Remote Duration: 12 months Job Description: 5 years of IT experience. Strong experience in L3 production support and cloud application support. Experience supporting enterprise applications hosted on Microsoft Azure platform. Desirable Skills: - Familiarity with Angular. - Knowledge of Azure PaaS services. Responsibilities: Provide L2 production support for enterprise applications hosted on Microsoft Azu…",
-      "url": "https://www.adzuna.com/land/ad/5950911701?se=fqOjgY7X8RGA_ZzrneFVXQ&utm_medium=api&utm_source=db5ba760&v=CE6D52827E5693121425A9CB6D8641DE920A319D",
-      "created": "2026-11-02T14:25:23Z",
-      "salary_min": 95039.47,
-      "salary_max": 95039.47,
-      "score": 56,
-      "matched": [
-        "cloud"
-      ],
-      "missing": [
-        "azure"
-      ],
-      "reason": "Matches 1 of 2 detected job skills. Strongest overlaps: cloud"
-    },
-    {
-      "id": "5950837694",
-      "title": "Salesforce Developer – Commerce Cloud",
-      "company": "S Linx LLC",
-      "location": "Texas City, Galveston County",
-      "description": "Job Title: Salesforce Developer – Commerce Cloud / L2 Production Support Location: Remote (CST Time Zone) Duration: 6 Months Job Description: We are looking for a skilled Salesforce Developer with strong hands-on experience in Salesforce Commerce Cloud and L2 production support. The ideal candidate will be responsible for troubleshooting production issues, performing root cause analysis, resolving incidents, and supporting Salesforce applications. Required Skills: Strong hands-on experience in …",
-      "url": "https://www.adzuna.com/land/ad/5950837694?se=fqOjgY7X8RGA_ZzrneFVXQ&utm_medium=api&utm_source=db5ba760&v=2714F290E08C94C63777A71990D8E30E6D24B7FF",
-      "created": "2026-11-02T12:52:57Z",
-      "salary_min": 141010.86,
-      "salary_max": 141010.86,
-      "score": 52,
-      "matched": [
-        "cloud"
-      ],
-      "missing": [
-        "salesforce"
-      ],
-      "reason": "Matches 1 of 2 detected job skills. Strongest overlaps: cloud"
-    },
-    {
-      "id": "5950911890",
-      "title": "Site Reliability Engineer || Remote (Must be from CST)",
-      "company": "AKAASA Technologies",
-      "location": "US",
-      "description": "Skills: Knowledge of software development and coding languages Python, GoLang, Java, .NET, and Node.js. understanding data processing proficiency in configuration design IT Infrastructure and monitoring management systems Experience with tools like ELK, Grafana is preferred. Education/Experience: Bachelor's degree in computer science, computer engineering, information technology, or relevant field. Proven background working in a technical, IT related position. 3-5 years of experience What would…",
-      "url": "https://www.adzuna.com/land/ad/5950911890?se=fPaFgI7X8RG-d7R47S4tPQ&utm_medium=api&utm_source=db5ba760&v=E6DE3B7F77C0BAB04D9F55154097024DC12028FF",
-      "created": "2026-11-02T14:25:52Z",
-      "salary_min": 96408.98,
-      "salary_max": 96408.98,
-      "score": 36,
-      "matched": [
-        "site reliability"
-      ],
-      "missing": [
-        "design",
-        "grafana",
-        "java",
-        "node.js",
-        "python"
-      ],
-      "reason": "Matches 1 of 6 detected job skills. Strongest overlaps: site reliability"
+      "reason": "Matches 3 of 4 detected job skills. Strongest overlaps: cloud, site reliability, sre"
     }
   ],
-  "total_new": 14,
-  "email_sent": true,
+  "total_new": 21,
+  "email_sent": false,
   "errors": []
 }
