@@ -1,69 +1,34 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "matches": [
     {
-      "id": "5954351473",
-      "title": "Site Reliability Engineer - Vice President - Citi",
-      "company": "Citi",
-      "location": "Tampa Palms, Hillsborough County",
-      "description": "Discover your future at Citi Working at Citi is far more than just a job. A career with us means joining a team of approximately 219,000 dedicated people from around the globe. At Citi, you'll have the opportunity to grow your career, give back to your community and make a real impact. Job Overview The Applications Development Senior Manager is a senior management level position responsible for accomplishing results through the management of a team or department in an effort to establish and im…",
-      "url": "https://www.adzuna.com/land/ad/5954351473?se=jKersyfZ8RGjs5qvLAQ_DA&utm_medium=api&utm_source=db5ba760&v=D21BE2CF39C5FD7BD24848668D6C989F0ED6A569",
-      "created": "2026-11-05T09:35:20Z",
-      "salary_min": 163552.53,
-      "salary_max": 163552.53,
-      "score": 100,
-      "matched": [
-        "site reliability"
-      ],
-      "missing": [],
-      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
-    },
-    {
-      "id": "5953458027",
-      "title": "Senior .Net Production Engineer",
-      "company": "Sun-IT Solutions",
-      "location": "US",
-      "description": "Hi, Hope you are doing well! Please find the below job description and share the updated resume to We are Seeking a hands-on Senior Technical Specialist with strong expertise in C#, .NET Core/.NET 6, Core, SQL Server, and enterprise application support. The ideal candidate will lead L3/production support, own deployments and releases, troubleshoot complex production issues, and develop code fixes for business-critical applications. Role: Sr. Technical Specialist with .NET Core and L3/Production…",
-      "url": "https://www.adzuna.com/details/5953458027?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-11-04T17:54:19Z",
-      "salary_min": 109673.88,
-      "salary_max": 109673.88,
-      "score": 98,
-      "matched": [
-        "sql"
-      ],
-      "missing": [],
-      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: sql"
-    },
-    {
-      "id": "5953552699",
-      "title": "Lead Site Reliability Engineer",
-      "company": "JPMorgan Chase Bank, N.A.",
-      "location": "East Lake-Orient Park, Hillsborough County",
-      "description": "Assume a critical role in defining the future of a globally recognized firm and have a direct and significant effect in a realm tailored for top achievers in site reliability. As a Lead Site Reliability Engineer at JPMorgan Chase within the Commercial and Investment, Merchant Services team , you hold a leadership role in your team, demonstrate strong knowledge across multiple technical domains, and advise others on the technical and business issues facing them. Take lead and conduct resiliency …",
-      "url": "https://www.adzuna.com/details/5953552699?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-11-04T20:04:45Z",
-      "salary_min": 220519.72,
-      "salary_max": 220519.72,
+      "id": "5954381926",
+      "title": "Production Application Support Engineer",
+      "company": "CGI Technologies and Solutions, Inc.",
+      "location": "Cary, Wake County",
+      "description": "Production Application Support Engineer Position Description The best version of us starts with You! We CGI is seeking an experienced and motivated Production Application Support Engineer (Hybrid Cloud) to join our infrastructure team supporting a leading global Bank client. Knowledge of the Fixed Income product set, related market events, market data feeds and an understanding of the trading lifecycle (order routing, execution and settlement). This is a Full-Time, On-Site employment opportunit…",
+      "url": "https://www.adzuna.com/land/ad/5954381926?se=MDWQEerZ8RGlc_2liimyuA&utm_medium=api&utm_source=db5ba760&v=7BF81137076FA5BB3434DFAF5636630274C57FDB",
+      "created": "2026-11-05T10:04:27Z",
+      "salary_min": 133862.61,
+      "salary_max": 133862.61,
       "score": 95,
       "matched": [
-        "leadership",
-        "site reliability"
+        "cloud"
       ],
       "missing": [],
-      "reason": "Matches 2 of 2 detected job skills. Strongest overlaps: leadership, site reliability"
+      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: cloud"
     },
     {
-      "id": "5954284958",
-      "title": "Lead Site Reliability Engineer",
-      "company": "JPMorgan Chase",
-      "location": "Tampa, Hillsborough County",
-      "description": "Lead Site Reliability Engineer Tampa, FL, United States Job Information  Job Identification 210800764  Job Category Software Engineering  Business Unit Commercial & Investment Bank  Posting Date 11/03/2026, 12:32 PM  Locations 4900 Memorial Hwy, Tampa, FL, 33634, US8181 Communications Pkwy Bldg B, Plano, TX, 75024, US  Job Schedule Full time  Job Shift Day Job Description Assume a critical role in defining the future of a globally recognized firm and have a direct and significant effect in a re…",
-      "url": "https://www.adzuna.com/details/5954284958?utm_medium=api&utm_source=db5ba760",
-      "created": "2026-11-05T08:12:18Z",
-      "salary_min": 252627.78,
-      "salary_max": 252627.78,
-      "score": 88,
+      "id": "5955736457",
+      "title": "Lead Site Reliability Engineer - Remote",
+      "company": "SitusAMC",
+      "location": "Five Points, Wake County",
+      "description": "Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. Whether you're a real estate veteran, a passionate technologist, or looking to get your start, join us as we work together to realize opportunities for everyone, we proudly serve. At SitusAMC, we are looking to match your unique experience with one of our amazing careers, so that we can help you realize your potential and career growth within the…",
+      "url": "https://www.adzuna.com/land/ad/5955736457?se=3F1YEOrZ8RGlc_2liimyuA&utm_medium=api&utm_source=db5ba760&v=6441219F89AA6A2E081587E5168AC5D5B5ABAE3B",
+      "created": "2026-11-06T08:16:42Z",
+      "salary_min": 163369.05,
+      "salary_max": 163369.05,
+      "score": 80,
       "matched": [
         "site reliability"
       ],
@@ -71,37 +36,33 @@
       "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
     },
     {
-      "id": "5953581749",
-      "title": "Site Reliability Engineer",
-      "company": "HTC Global Services Inc",
-      "location": "Newell, Mecklenburg County",
-      "description": "Senior Site Reliability Engineer (SRE) – PagerDuty / Moogsoft Migration Position Overview Lead a critical observability and incident-management transformation by migrating from the legacy Moogsoft AIOps platform to PagerDuty. This role focuses on redesigning incident management workflows, implementing event orchestration, integrating monitoring platforms, and enabling a seamless transition to PagerDuty for live production monitoring. What You'll Do / Key Responsibilities Lead the migration from…",
-      "url": "https://www.adzuna.com/land/ad/5953581749?se=FlTysyfZ8RGYQvvt5rgOWQ&utm_medium=api&utm_source=db5ba760&v=1A6B5DD56A9EFD1D6E5AB99CFD5858D2C020BD8B",
-      "created": "2026-11-04T21:11:53Z",
-      "salary_min": 103921.26,
-      "salary_max": 103921.26,
-      "score": 81,
+      "id": "5955227520",
+      "title": "Lead Site Reliability Engineer - Remote",
+      "company": "SitusAMC",
+      "location": "Pierre, Hughes County",
+      "description": "Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. Whether you're a real estate veteran, a passionate technologist, or looking to get your start, join us as we work together to realize opportunities for everyone, we proudly serve. At SitusAMC, we are looking to match your unique experience with one of our amazing careers, so that we can help you realize your potential and career growth within the…",
+      "url": "https://www.adzuna.com/land/ad/5955227520?se=vqzCEOrZ8RGidq-uD22XOg&utm_medium=api&utm_source=db5ba760&v=401F9EB954511EADB83E69336A9037419CF51687",
+      "created": "2026-11-05T23:22:16Z",
+      "salary_min": 220174.47,
+      "salary_max": 220174.47,
+      "score": 80,
       "matched": [
-        "observability",
-        "site reliability",
-        "sre"
+        "site reliability"
       ],
-      "missing": [
-        "incident management"
-      ],
-      "reason": "Matches 3 of 4 detected job skills. Strongest overlaps: observability, site reliability, sre"
+      "missing": [],
+      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
     },
     {
-      "id": "5953799766",
-      "title": "Sr Site Reliability Engineer -Remote US",
+      "id": "5955219376",
+      "title": "Lead Site Reliability Engineer - Remote",
       "company": "SitusAMC",
       "location": "Wyoming, Kent County",
-      "description": "Remote Remote Full time JR03043 SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. Whether you're a real estate veteran, a passionate technologist, or looking to get your start, join us as we work together to realize opportunities for everyone, we proudly serve. At SitusAMC, we are looking to match your unique experience with one of our amazing careers, so that we can help you realize your potential and career growth within the…",
-      "url": "https://www.adzuna.com/land/ad/5953799766?se=uLlYtCfZ8RGb7JG1RxVYXA&utm_medium=api&utm_source=db5ba760&v=94F7B8AD0728B8BBE6158CB42648FC5606BEA0D3",
-      "created": "2026-11-04T23:13:00Z",
-      "salary_min": 181098.14,
-      "salary_max": 181098.14,
-      "score": 78,
+      "description": "Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. Whether you're a real estate veteran, a passionate technologist, or looking to get your start, join us as we work together to realize opportunities for everyone, we proudly serve. At SitusAMC, we are looking to match your unique experience with one of our amazing careers, so that we can help you realize your potential and career growth within the…",
+      "url": "https://www.adzuna.com/land/ad/5955219376?se=vqzCEOrZ8RGidq-uD22XOg&utm_medium=api&utm_source=db5ba760&v=69E7D47A4E70689D5BB1E5C209CA0FE2C1A08499",
+      "created": "2026-11-05T23:12:52Z",
+      "salary_min": 184260.08,
+      "salary_max": 184260.08,
+      "score": 80,
       "matched": [
         "site reliability"
       ],
@@ -109,33 +70,16 @@
       "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
     },
     {
-      "id": "5953802105",
-      "title": "Sr Site Reliability Engineer -Remote US",
-      "company": "SitusAMC",
-      "location": "Providence, Providence County",
-      "description": "Remote Remote Full time JR03043 SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. Whether you're a real estate veteran, a passionate technologist, or looking to get your start, join us as we work together to realize opportunities for everyone, we proudly serve. At SitusAMC, we are looking to match your unique experience with one of our amazing careers, so that we can help you realize your potential and career growth within the…",
-      "url": "https://www.adzuna.com/land/ad/5953802105?se=uLlYtCfZ8RGb7JG1RxVYXA&utm_medium=api&utm_source=db5ba760&v=C39932042AAEFD0CC7B137D6D386853BEE36CA6D",
-      "created": "2026-11-04T23:18:21Z",
-      "salary_min": 147726.53,
-      "salary_max": 147726.53,
-      "score": 78,
-      "matched": [
-        "site reliability"
-      ],
-      "missing": [],
-      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
-    },
-    {
-      "id": "5953799737",
-      "title": "Sr Site Reliability Engineer -Remote US",
+      "id": "5955219618",
+      "title": "Lead Site Reliability Engineer - Remote",
       "company": "SitusAMC",
       "location": "Bismarck, Burleigh County",
-      "description": "Remote Remote Full time JR03043 SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. Whether you're a real estate veteran, a passionate technologist, or looking to get your start, join us as we work together to realize opportunities for everyone, we proudly serve. At SitusAMC, we are looking to match your unique experience with one of our amazing careers, so that we can help you realize your potential and career growth within the…",
-      "url": "https://www.adzuna.com/land/ad/5953799737?se=uLlYtCfZ8RGb7JG1RxVYXA&utm_medium=api&utm_source=db5ba760&v=ACE7142E1FAE4CBE5BBEEE2AA240312A927DEEB4",
-      "created": "2026-11-04T23:12:58Z",
-      "salary_min": 137565.02,
-      "salary_max": 137565.02,
-      "score": 78,
+      "description": "Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. Whether you're a real estate veteran, a passionate technologist, or looking to get your start, join us as we work together to realize opportunities for everyone, we proudly serve. At SitusAMC, we are looking to match your unique experience with one of our amazing careers, so that we can help you realize your potential and career growth within the…",
+      "url": "https://www.adzuna.com/land/ad/5955219618?se=vqzCEOrZ8RGidq-uD22XOg&utm_medium=api&utm_source=db5ba760&v=B59C78246BCA023346CA11B140E9A4BA59F93B08",
+      "created": "2026-11-05T23:12:55Z",
+      "salary_min": 139966.75,
+      "salary_max": 139966.75,
+      "score": 80,
       "matched": [
         "site reliability"
       ],
@@ -143,16 +87,16 @@
       "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
     },
     {
-      "id": "5953667737",
-      "title": "Sr Site Reliability Engineer -Remote US",
+      "id": "5955046134",
+      "title": "Lead Site Reliability Engineer - Remote",
       "company": "SitusAMC",
       "location": "Helena, Lewis and Clark County",
-      "description": "Remote Remote Full time JR03043 SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. Whether you're a real estate veteran, a passionate technologist, or looking to get your start, join us as we work together to realize opportunities for everyone, we proudly serve. At SitusAMC, we are looking to match your unique experience with one of our amazing careers, so that we can help you realize your potential and career growth within the…",
-      "url": "https://www.adzuna.com/land/ad/5953667737?se=uLlYtCfZ8RGb7JG1RxVYXA&utm_medium=api&utm_source=db5ba760&v=0D366C34FF33CB763E2A42D0E12495A785150C76",
-      "created": "2026-11-04T22:07:17Z",
-      "salary_min": 146514.17,
-      "salary_max": 146514.17,
-      "score": 78,
+      "description": "Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. Whether you're a real estate veteran, a passionate technologist, or looking to get your start, join us as we work together to realize opportunities for everyone, we proudly serve. At SitusAMC, we are looking to match your unique experience with one of our amazing careers, so that we can help you realize your potential and career growth within the…",
+      "url": "https://www.adzuna.com/land/ad/5955046134?se=vqzCEOrZ8RGidq-uD22XOg&utm_medium=api&utm_source=db5ba760&v=93EEA24C93F595CEF46FB0FF62EB3FBF9B585E1E",
+      "created": "2026-11-05T22:28:01Z",
+      "salary_min": 149072.14,
+      "salary_max": 149072.14,
+      "score": 80,
       "matched": [
         "site reliability"
       ],
@@ -160,16 +104,67 @@
       "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
     },
     {
-      "id": "5953175394",
-      "title": "Sr Site Reliability Engineer -Remote US",
+      "id": "5955227006",
+      "title": "Lead Site Reliability Engineer - Remote",
       "company": "SitusAMC",
-      "location": "Concord, Merrimack County",
-      "description": "Remote Remote Full time JR03043 SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. Whether you're a real estate veteran, a passionate technologist, or looking to get your start, join us as we work together to realize opportunities for everyone, we proudly serve. At SitusAMC, we are looking to match your unique experience with one of our amazing careers, so that we can help you realize your potential and career growth within the…",
-      "url": "https://www.adzuna.com/land/ad/5953175394?se=uLlYtCfZ8RGb7JG1RxVYXA&utm_medium=api&utm_source=db5ba760&v=E848622CEDFFD6197F4290E9B72D9ECFF2AE01D0",
-      "created": "2026-11-04T11:33:02Z",
-      "salary_min": 212320.05,
-      "salary_max": 212320.05,
-      "score": 78,
+      "location": "Providence, Providence County",
+      "description": "Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. Whether you're a real estate veteran, a passionate technologist, or looking to get your start, join us as we work together to realize opportunities for everyone, we proudly serve. At SitusAMC, we are looking to match your unique experience with one of our amazing careers, so that we can help you realize your potential and career growth within the…",
+      "url": "https://www.adzuna.com/land/ad/5955227006?se=vqzCEOrZ8RGidq-uD22XOg&utm_medium=api&utm_source=db5ba760&v=3A49269711C10F5AD35D69FF45813C9570D4A2F0",
+      "created": "2026-11-05T23:21:58Z",
+      "salary_min": 150305.97,
+      "salary_max": 150305.97,
+      "score": 80,
+      "matched": [
+        "site reliability"
+      ],
+      "missing": [],
+      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
+    },
+    {
+      "id": "5955048213",
+      "title": "Lead Site Reliability Engineer - Remote",
+      "company": "SitusAMC",
+      "location": "Augusta, Kennebec County",
+      "description": "Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. Whether you're a real estate veteran, a passionate technologist, or looking to get your start, join us as we work together to realize opportunities for everyone, we proudly serve. At SitusAMC, we are looking to match your unique experience with one of our amazing careers, so that we can help you realize your potential and career growth within the…",
+      "url": "https://www.adzuna.com/land/ad/5955048213?se=vqzCEOrZ8RGidq-uD22XOg&utm_medium=api&utm_source=db5ba760&v=7634C60DC824D4A509767E718BF27510BB20CAFE",
+      "created": "2026-11-05T22:28:25Z",
+      "salary_min": 196179.58,
+      "salary_max": 196179.58,
+      "score": 80,
+      "matched": [
+        "site reliability"
+      ],
+      "missing": [],
+      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
+    },
+    {
+      "id": "5955706912",
+      "title": "Lead Site Reliability Engineer - Remote",
+      "company": "SitusAMC",
+      "location": "Topeka, Shawnee County",
+      "description": "Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. Whether you're a real estate veteran, a passionate technologist, or looking to get your start, join us as we work together to realize opportunities for everyone, we proudly serve. At SitusAMC, we are looking to match your unique experience with one of our amazing careers, so that we can help you realize your potential and career growth within the…",
+      "url": "https://www.adzuna.com/land/ad/5955706912?se=vqzCEOrZ8RGidq-uD22XOg&utm_medium=api&utm_source=db5ba760&v=5CEDFA1AAAE5294B4563F63B56E5E2B5B570D576",
+      "created": "2026-11-06T08:09:26Z",
+      "salary_min": 148984.45,
+      "salary_max": 148984.45,
+      "score": 80,
+      "matched": [
+        "site reliability"
+      ],
+      "missing": [],
+      "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
+    },
+    {
+      "id": "5955692578",
+      "title": "Lead Site Reliability Engineer - Remote",
+      "company": "SitusAMC",
+      "location": "State House, Lancaster County",
+      "description": "Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. Whether you're a real estate veteran, a passionate technologist, or looking to get your start, join us as we work together to realize opportunities for everyone, we proudly serve. At SitusAMC, we are looking to match your unique experience with one of our amazing careers, so that we can help you realize your potential and career growth within the…",
+      "url": "https://www.adzuna.com/land/ad/5955692578?se=vqzCEOrZ8RGidq-uD22XOg&utm_medium=api&utm_source=db5ba760&v=B9A4298625648D0A669C0C16C8ADB46E2E73D152",
+      "created": "2026-11-06T08:06:16Z",
+      "salary_min": 180981.42,
+      "salary_max": 180981.42,
+      "score": 80,
       "matched": [
         "site reliability"
       ],
@@ -177,7 +172,7 @@
       "reason": "Matches 1 of 1 detected job skills. Strongest overlaps: site reliability"
     }
   ],
-  "total_new": 36,
-  "email_sent": true,
+  "total_new": 34,
+  "email_sent": false,
   "errors": []
 }
