@@ -158,6 +158,6 @@
     }
   ],
   "total_new": 15,
-  "email_sent": false,
+  "email_sent": true,
   "errors": []
 }
